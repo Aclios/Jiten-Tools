@@ -4,6 +4,10 @@ Tools and assembly hacks to import western languages to Gyakuten Saiban Jiten (ã
 
 Work in progress.
 
+# Requirements
+
+Python. Run `python -m pip install -r requirements.txt` to install dependencies.
+
 # Usage
 
 Extract data and assets from the original (and decrypted) rom:
@@ -60,7 +64,7 @@ The font is located in **_project/new/font**. It already has French characters g
 
 To save space, the encoding now uses 1 byte per character. The bytes 00 and 23 are special characters, so you can map a total of 254 different characters.
 
-If you want to add a new character, put it somewhere in the font.png font sheet, and modify the fontmap.csv file. This file follows the layout of the sheet: the cell D7 refers to the character in the 7th row, 4th column of the sheet. Enter <character>|<character_width> in the correct cell.
+If you want to add a new character, put it somewhere in the font.png font sheet, and modify the fontmap.csv file. This file follows the layout of the sheet: the cell D7 refers to the character in the 7th row, 4th column of the sheet. Enter \[character\]|\[character_width\] in the correct cell.
 
 ## Images
 

@@ -51,22 +51,28 @@ py main.py -i [path of the new rom]
 The **_project** folder will contain everything you need to modify.
 
 The **_project/original** folder will have original files and original assets. Don't delete or modify files from this folder.
+
 The **_project/new** folder will contain the new files that you modified and the new rom will be build from its contents.
 
 ## Font
 
-The font is located in **_project/new/font**. It already have French characters glyphs and metrics.
-Too save space, the encoding now uses 1 byte per character. The bytes 00 and 23 are special characters, so you can map a total of 254 different characters.
+The font is located in **_project/new/font**. It already has French characters glyphs and metrics.
+
+To save space, the encoding now uses 1 byte per character. The bytes 00 and 23 are special characters, so you can map a total of 254 different characters.
+
 If you want to add a new character, put it somewhere in the font.png font sheet, and modify the fontmap.csv file. This file follows the layout of the sheet: the cell D7 refers to the character in the 7th row, 4th column of the sheet. Enter <character>|<character_width> in the correct cell.
 
 ## Images
 
 Images are originally extracted to **_project/original/images**. After modifying an image, put it at **_project/new/images** with the exact same relative path so it's taken into account in the rebuilding.
+
 Images are extracted as palette-indexed png, and they need to stay in this format to be reimported. You can of course modify the palette.
 
 ## Text
 
-The text is extracted to **_project/new/text**. For the encyclopedia, simply modify the Translation column of the xlsx files; for openings/credits, simply modify the txt files.
+The text is extracted to **_project/new/text**.
+
+For the encyclopedia, simply modify the Translation column of the xlsx files; for openings/credits, simply modify the txt files.
 
 ## Sound
 
@@ -79,4 +85,5 @@ This project is using Aetias' ds-rom to extract and rebuild the .nds rom. You ca
 # Credits
 
 Rom extraction/building: Aetias' ds-rom: https://github.com/AetiasHax/ds-rom
+
 Assembly hacks insertion: Kingcom's armips: https://github.com/Kingcom/armips 

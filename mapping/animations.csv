@@ -1,0 +1,2023 @@
+anim_id,associated_im,character,name,game,note
+1412,???,,,,
+1413,1398,Phoenix,normal,AA1,
+1414,1398,Phoenix,normal talking,AA1,
+1415,1398,Phoenix,thinking,AA1,
+1416,1398,Phoenix,thinking t,AA1,
+1417,1398,Phoenix,heart eyes,AA1,
+1418,1400,Phoenix,slam desk,AA1,
+1419,1400,Phoenix,slammed desk,AA1,
+1420,1400,Phoenix,slammed desk t,AA1,
+1421,1402,Phoenix,objection,AA1,
+1422,1402,Phoenix,pointing finger,AA1,
+1423,1402,Phoenix,waving finger t,AA1,
+1424,1404,Phoenix,checking file,AA1,
+1425,1404,Phoenix,checking file t,AA1,
+1426,1406,Phoenix,sweating,AA1,
+1427,1406,Phoenix,sweating t,AA1,
+1428,1408,Phoenix,damage,AA1,
+1429,1398,Phoenix,took rug,AA1,
+1430,1410,Phoenix,embarassed,AA1,
+1431,1410,Phoenix,embarassed t,AA1,
+1432,1406,Phoenix,smug,AA1,
+1433,1406,Phoenix,smug t,AA1,
+1434,1410,Phoenix,nodding,AA1,
+1435,1410,Phoenix,shooking head,AA1,
+1446,1436,Maya,sad,AA1,
+1447,1436,Maya,sad t,AA1,
+1448,1436,Maya,normal,AA1,
+1449,1436,Maya,normal t,AA1,
+1450,1436,Maya,thinking,AA1,
+1451,1436,Maya,thinking t,AA1,
+1452,1436,Maya,looking down,AA1,
+1453,1436,Maya,looking down t,AA1,
+1454,1438,Maya,crying,AA1,
+1455,1438,Maya,crying t,AA1,
+1456,1440,Maya,determined,AA1,
+1457,1440,Maya,determined t,AA1,
+1458,1440,Maya,happy,AA1,
+1459,1440,Maya,happy t,AA1,
+1460,1438,Maya,contraried,AA1,
+1461,1438,Maya,contraried t,AA1,
+1462,1438,Maya,smirking,AA1,
+1463,1438,Maya,smirking t,AA1,
+1464,1438,Maya,angry,AA1,
+1465,1438,Maya,angry t,AA1,
+1466,1440,Maya,surprised,AA1,
+1467,1440,Maya,surprised t,AA1,
+1468,1442,Maya,shocked,AA1,
+1469,1440,Maya,Happy – nod,AA1,
+1470,1438,Maya,crying eyes closed,AA1,
+1471,1436,Maya,sad,AA1,
+1472,1436,Maya,sad t,AA1,
+1473,1436,Maya,normal,AA1,
+1474,1436,Maya,normal t,AA1,
+1475,1436,Maya,thinking,AA1,
+1476,1436,Maya,thinking t,AA1,
+1477,1436,Maya,looking down,AA1,
+1478,1436,Maya,looking down t,AA1,
+1479,1438,Maya,crying,AA1,
+1480,1438,Maya,crying t,AA1,
+1481,1440,Maya,determined,AA1,
+1482,1440,Maya,determined t,AA1,
+1483,1440,Maya,happy,AA1,
+1484,1440,Maya,happy t,AA1,
+1485,1438,Maya,contraried,AA1,
+1486,1438,Maya,contraried t,AA1,
+1487,1438,Maya,smirking,AA1,
+1488,1438,Maya,smirking t,AA1,
+1489,1438,Maya,angry,AA1,
+1490,1438,Maya,angry t,AA1,
+1491,1438,Maya,surprised,AA1,
+1492,1438,Maya,surprised t,AA1,
+1493,1444,Maya,side normal,AA1,
+1494,1444,Maya,side normal t,AA1,
+1495,1444,Maya,side contraried,AA1,
+1496,1444,Maya,side contraried t,AA1,
+1497,1444,Maya,side embarassed,AA1,
+1498,1444,Maya,side embarassed t,AA1,
+1499,1444,Maya,side thinking,AA1,
+1500,1444,Maya,side thinking t,AA1,
+1501,1444,Maya,side determined,AA1,
+1502,1444,Maya,side determined t,AA1,
+1507,1503,Maya (chan Mia),normal,AA1,
+1508,1503,Maya (chan Mia),normal t,AA1,
+1509,1503,Maya (chan Mia),serious,AA1,
+1510,1503,Maya (chan Mia),serious t,AA1,
+1511,1503,Maya (chan Mia),happy,AA1,
+1512,1503,Maya (chan Mia),happy t,AA1,
+1513,1503,Maya (chan Mia),surprised,AA1,
+1514,1503,Maya (chan Mia),surprised t,AA1,
+1515,1505,Maya (chan Mia),side normal,AA1,
+1516,1505,Maya (chan Mia),side normal t,AA1,
+1517,1505,Maya (chan Mia),side serious,AA1,
+1518,1505,Maya (chan Mia),side serious t,AA1,
+1519,1505,Maya (chan Mia),side serious 2,AA1,
+1520,1505,Maya (chan Mia),side serious 2 t,AA1,
+1521,1505,Maya (chan Mia),side sad,AA1,
+1522,1505,Maya (chan Mia),side sad t,AA1,
+1523,1505,Maya (chan Mia),side nodding,AA1,
+1524,1505,Maya (chan Mia),side shooking head,AA1,
+1529,1525,Mia,normal,AA1,
+1530,1525,Mia,normal t,AA1,
+1531,1525,Mia,happy,AA1,
+1532,1525,Mia,happy t,AA1,
+1533,1525,Mia,surprised,AA1,
+1534,1525,Mia,surprised t,AA1,
+1535,1525,Mia,smiling,AA1,
+1536,1527,Mia,serious,AA1,
+1537,1527,Mia,serious t,AA1,
+1538,1527,Mia,shocked,AA1,
+1539,1527,Mia,shocked t,AA1,
+1540,1527,Mia,disappointed,AA1,
+1541,1527,Mia,disappointed t,AA1,
+1542,1527,Mia,sad,AA1,
+1543,1527,Mia,sad t,AA1,
+1546,1544,Judge,normal,AA1,
+1547,1544,Judge,normal t,AA1,
+1548,1544,Judge,nodding,AA1,
+1549,1544,Judge,shooking head,AA1,
+1550,1544,Judge,angry,AA1,
+1551,1544,Judge,angry t,AA1,
+1552,1544,Judge,surprised,AA1,
+1553,1544,Judge,surprised t,AA1,
+1554,1544,Judge,thinking,AA1,
+1575,1567,Edgeworth,normal,AA1,
+1576,1567,Edgeworth,normal t,AA1,
+1577,1567,Edgeworth,angry,AA1,
+1578,1567,Edgeworth,angry t,AA1,
+1579,1567,Edgeworth,concerned,AA1,
+1580,1567,Edgeworth,concerned t,AA1,
+1581,1569,Edgeworth,hurt,AA1,
+1582,1569,Edgeworth,hurt t,AA1,
+1583,1567,Edgeworth,looking away,AA1,
+1584,1567,Edgeworth,looking away t,AA1,
+1585,1569,Edgeworth,impatient,AA1,
+1586,1569,Edgeworth,impatient t,AA1,
+1587,1567,Edgeworth,normal,AA1,witness
+1588,1567,Edgeworth,normal t,AA1,witness
+1589,1567,Edgeworth,angry,AA1,witness
+1590,1567,Edgeworth,angry t,AA1,witness
+1591,1567,Edgeworth,concerned,AA1,witness
+1592,1567,Edgeworth,concerned t,AA1,witness
+1593,1569,Edgeworth,hurt,AA1,witness
+1594,1569,Edgeworth,hurt t,AA1,witness
+1595,1567,Edgeworth,looking away,AA1,witness
+1596,1567,Edgeworth,looking away t,AA1,witness
+1597,1555,Edgeworth,normal,AA1,trial
+1598,1555,Edgeworth,normal t,AA1,trial
+1599,1559,Edgeworth,slamming desk,AA1,trial
+1600,1559,Edgeworth,slamming desk wait,AA1,trial
+1601,1559,Edgeworth,slamming desk t,AA1,trial
+1602,1557,Edgeworth,pointing finger,AA1,trial
+1603,1557,Edgeworth,pointing finger t,AA1,trial
+1604,1555,Edgeworth,checking file,AA1,trial
+1605,1555,Edgeworth,checking file t,AA1,trial
+1606,1557,Edgeworth,thinking,AA1,trial
+1607,1557,Edgeworth,thinking t,AA1,trial
+1608,1559,Edgeworth,furious,AA1,trial
+1609,1559,Edgeworth,furious t,AA1,trial
+1610,1561,Edgeworth,smug,AA1,trial
+1611,1561,Edgeworth,smug t,AA1,trial
+1612,1555,Edgeworth,objection,AA1,trial
+1613,1563,Edgeworth,damage,AA1,trial
+1614,1565,Edgeworth,bowing,AA1,trial
+1615,1561,Edgeworth,Objection 2,AA1,trial
+1616,1565,Edgeworth,after bowing,AA1,trial
+1617,1555,Edgeworth,objection wait,AA1,trial
+1618,1567,Edgeworth,normal,AA1,witness
+1619,1567,Edgeworth,normal t,AA1,witness
+1620,1567,Edgeworth,angry,AA1,witness
+1621,1567,Edgeworth,angry t,AA1,witness
+1622,1567,Edgeworth,concerned,AA1,witness
+1623,1567,Edgeworth,concerned t,AA1,witness
+1624,1569,Edgeworth,hurt,AA1,witness
+1625,1569,Edgeworth,hurt t,AA1,witness
+1626,1567,Edgeworth,looking away,AA1,witness
+1627,1567,Edgeworth,looking away t,AA1,witness
+1628,1569,Edgeworth,impatient,AA1,witness
+1629,1569,Edgeworth,impatient t,AA1,witness
+1630,1571,Edgeworth,pointing finger wait,AA1,witness
+1631,1571,Edgeworth,pointing finger,AA1,witness
+1632,1573,Edgeworth,damage wait,AA1,witness
+1633,1573,Edgeworth,damage,AA1,witness
+1644,1634,Gumshoe,normal,AA1,
+1645,1634,Gumshoe,normal t,AA1,
+1646,1634,Gumshoe,thinking,AA1,
+1647,1634,Gumshoe,thinking t,AA1,
+1648,1634,Gumshoe,laughing,AA1,
+1649,1634,Gumshoe,laughing t,AA1,
+1650,1636,Gumshoe,serious,AA1,
+1651,1636,Gumshoe,serious t,AA1,
+1652,1638,Gumshoe,smug,AA1,
+1653,1638,Gumshoe,smug t,AA1,
+1654,1640,Gumshoe,angry,AA1,
+1655,1640,Gumshoe,angry t,AA1,
+1656,1640,Gumshoe,sad,AA1,
+1657,1640,Gumshoe,sad t,AA1,
+1658,1638,Gumshoe,concerned,AA1,
+1659,1638,Gumshoe,concerned t,AA1,
+1660,1642,Gumshoe,embarassed wait,AA1,
+1661,1642,Gumshoe,embarassed,AA1,
+1662,1634,Gumshoe,normal,AA1,witness
+1663,1634,Gumshoe,normal t,AA1,witness
+1664,1634,Gumshoe,thinking,AA1,witness
+1665,1634,Gumshoe,thinking t,AA1,witness
+1666,1634,Gumshoe,laughing,AA1,witness
+1667,1634,Gumshoe,laughing t,AA1,witness
+1668,1636,Gumshoe,serious,AA1,witness
+1669,1636,Gumshoe,serious t,AA1,witness
+1670,1638,Gumshoe,smug,AA1,witness
+1671,1638,Gumshoe,smug t,AA1,witness
+1672,1640,Gumshoe,angry,AA1,witness
+1673,1640,Gumshoe,angry t,AA1,witness
+1674,1640,Gumshoe,sad,AA1,witness
+1675,1640,Gumshoe,sad t,AA1,witness
+1676,1638,Gumshoe,concerned,AA1,witness
+1677,1638,Gumshoe,concerned t,AA1,witness
+1678,1642,Gumshoe,embarassed wait,AA1,witness
+1679,1642,Gumshoe,embarassed,AA1,witness
+1692,1682,White,normal,AA1,
+1693,1682,White,normal t,AA1,
+1694,1688,White,deny,AA1,
+1695,1688,White,deny t,AA1,
+1696,1682,White,normal,AA1,
+1697,1682,White,normal t,AA1,witness
+1698,1686,White,shining,AA1,witness
+1699,1688,White,deny,AA1,witness
+1700,1688,White,deny t,AA1,witness
+1701,1682,White,concerned,AA1,witness
+1702,1682,White,concerned t,AA1,witness
+1703,1684,White,sweating,AA1,witness
+1704,1684,White,sweating t,AA1,witness
+1705,1690,White,panicked moving head,AA1,witness
+1706,1684,White,panicked,AA1,witness
+1707,1684,White,panicked t,AA1,witness
+1708,1690,White,breakdown,AA1,witness
+1709,1690,White,post breakdown,AA1,witness
+1710,1680,White,shrug,AA1,witness
+1717,1715,April,lower body 1,AA1,
+1718,1715,April,lower body 2,AA1,
+1719,1711,April,normal,AA1,
+1720,1711,April,normal t,AA1,
+1721,1711,April,furious,AA1,
+1722,1711,April,furious t,AA1,
+1723,1711,April,Normal 2,AA1,
+1724,1711,April,normal t 2,AA1,
+1725,1711,April,concerned,AA1,
+1726,1711,April,concerned t,AA1,
+1727,1711,April,thinking,AA1,
+1728,1711,April,Thinking 2,AA1,
+1729,1713,April,moving breast,AA1,
+1730,1711,April,Furious 2,AA1,
+1731,1711,April,furious t 2,AA1,
+1732,1711,April,furious side,AA1,
+1733,1711,April,furious side 2,AA1,
+1734,1711,April,sad,AA1,
+1735,1711,April,sad t,AA1,
+1736,1713,April,dropping facade,AA1,
+1737,1711,April,furious idle,AA1,
+1738,1711,April,crying,AA1,
+1739,1713,April,dropped facade,AA1,
+1742,1740,Payne,normal,AA1,
+1743,1740,Payne,normal t,AA1,
+1744,1740,Payne,sweating,AA1,
+1745,1740,Payne,sweating t,AA1,
+1748,1746,Bellboy,normal,AA1,
+1749,1746,Bellboy,normal t,AA1,
+1750,1746,Bellboy,normal,AA1,witness
+1751,1746,Bellboy,normal t,AA1,witness
+1752,1746,Bellboy,blush,AA1,witness
+1753,1746,Bellboy,blush t,AA1,witness
+1766,1756,Larry,cool,AA1,
+1767,1756,Larry,cool t,AA1,
+1768,1756,Larry,crying,AA1,
+1769,1756,Larry,crying t,AA1,
+1770,1758,Larry,happy,AA1,
+1771,1758,Larry,happy t,AA1,
+1772,1754,Larry,normal,AA1,
+1773,1754,Larry,normal t,AA1,
+1774,1760,Larry,smiling,AA1,Père Noël
+1775,1760,Larry,smiling t,AA1,Père Noël
+1776,1760,Larry,sweating,AA1,Père Noël
+1777,1760,Larry,sweating t,AA1,Père Noël
+1778,1760,Larry,afraid,AA1,Père Noël
+1779,1760,Larry,afraid t,AA1,Père Noël
+1780,1760,Larry,masked,AA1,Père Noël
+1781,1758,Larry,smug,AA1,
+1782,1758,Larry,smug t,AA1,
+1783,1754,Larry,sweating,AA1,
+1784,1764,Larry,angry t,AA1,
+1785,1762,Larry,embarassed,AA1,
+1786,1762,Larry,embarassed t,AA1,
+1787,1758,Larry,smug,AA1,witness
+1788,1758,Larry,smug t,AA1,witness
+1789,1754,Larry,sweating,AA1,witness
+1790,1754,Larry,angry t,AA1,witness
+1791,1764,Larry,normal,AA1,witness
+1792,1754,Larry,normal t,AA1,witness
+1793,1756,Larry,cool,AA1,witness
+1794,1756,Larry,cool t,AA1,witness
+1795,1756,Larry,crying,AA1,witness
+1796,1756,Larry,crying t,AA1,witness
+1797,1762,Larry,embarassed,AA1,witness
+1798,1762,Larry,embarassed t,AA1,witness
+1799,1762,Larry,thinking,AA1,witness
+1800,1762,Larry,thinking t,AA1,witness
+1801,1762,Larry,monstruous t,AA1,witness
+1802,1762,Larry,monstruous,AA1,witness
+1811,1803,Sahwit,normal,AA1,
+1812,1803,Sahwit,normal t,AA1,
+1813,1803,Sahwit,sweating,AA1,
+1814,1803,Sahwit,sweating t,AA1,
+1815,1805,Sahwit,angry,AA1,
+1816,1805,Sahwit,angry t,AA1,
+1817,1807,Sahwit,furious,AA1,
+1818,1807,Sahwit,furious t,AA1,
+1819,1805,Sahwit,damage,AA1,
+1820,1809,Sahwit,tossing wig,AA1,
+1821,1807,Sahwit,breakdown,AA1,
+1822,???,???,???,AA1,
+1823,1805,Sahwit,angry t,AA1,
+1826,1824,Rosenberg,normal,AA1,
+1827,1824,Rosenberg,normal t,AA1,
+1828,1824,Rosenberg,concerned,AA1,
+1829,1824,Rosenberg,concerned t,AA1,
+1834,1830,Oldbag,normal,AA1,
+1835,1830,Oldbag,normal t,AA1,
+1836,1830,Oldbag,angry,AA1,
+1837,1830,Oldbag,angry t,AA1,
+1838,1830,Oldbag,smug,AA1,
+1839,1830,Oldbag,smug t,AA1,
+1840,1832,Oldbag,playful,AA1,
+1841,1832,Oldbag,playful t,AA1,
+1842,1830,Oldbag,normal,AA1,witness
+1843,1830,Oldbag,normal t,AA1,witness
+1844,1830,Oldbag,angry,AA1,witness
+1845,1830,Oldbag,angry t,AA1,witness
+1846,1830,Oldbag,smug,AA1,witness
+1847,1830,Oldbag,smug t,AA1,witness
+1848,1830,Oldbag,damage,AA1,witness
+1849,1832,Oldbag,playful,AA1,witness
+1850,1832,Oldbag,playful t,AA1,witness
+1851,1832,Oldbag,in love,AA1,witness
+1852,1832,Oldbag,in love t,AA1,witness
+1855,1853,Penny,normal,AA1,witness
+1856,1853,Penny,normal t,AA1,witness
+1857,1853,Penny,gossip,AA1,
+1858,1853,Penny,gossip t,AA1,
+1859,1853,Penny,showing cards,AA1,
+1860,1853,Penny,showing cards t,AA1,
+1865,1863,Will,happy,AA1,
+1866,1863,Will,happy t,AA1,
+1867,1861,Will,normal,AA1,
+1868,1861,Will,concerned t,AA1,
+1869,1863,Will,sorry,AA1,
+1870,1863,Will,sorry t,AA1,
+1871,1861,Will,normal,AA1,witness
+1872,1861,Will,concerned t,AA1,witness
+1873,1863,Will,sorry,AA1,witness
+1874,1863,Will,sorry t,AA1,witness
+1881,1875,Monello,normal,AA1,
+1882,1875,Monello,normal t,AA1,
+1883,1875,Monello,upset,AA1,
+1884,1875,Monello,upset t,AA1,
+1885,1875,Monello,drool,AA1,
+1886,1875,Monello,drool t,AA1,
+1887,1875,Monello,normal,AA1,witness
+1888,1875,Monello,normal t,AA1,witness
+1889,1875,Monello,upset,AA1,witness
+1890,1875,Monello,upset t,AA1,witness
+1891,1875,Monello,drool,AA1,witness
+1892,1875,Monello,drool t,AA1,witness
+1893,1877,Monello,damage,AA1,witness
+1894,1879,Monello,panicked,AA1,witness
+1895,1879,Monello,panicked t,AA1,witness
+1896,1879,Monello,thinking,AA1,witness
+1897,1879,Monello,thinking t,AA1,witness
+1902,1898,Vasquez,normal,AA1,
+1903,1898,Vasquez,normal t,AA1,
+1904,1898,Vasquez,smug,AA1,
+1905,1898,Vasquez,smug t,AA1,
+1906,1900,Vasquez,sweating,AA1,
+1907,1900,Vasquez,sweating t,AA1,
+1908,1898,Vasquez,normal,AA1,witness
+1909,1898,Vasquez,normal t,AA1,witness
+1910,1898,Vasquez,angry,AA1,witness
+1911,1898,Vasquez,furious,AA1,witness
+1912,1898,Vasquez,smug,AA1,witness
+1913,1898,Vasquez,smug t,AA1,witness
+1914,1898,Vasquez,surprised,AA1,witness
+1915,1898,Vasquez,surprised wait,AA1,witness
+1916,1900,Vasquez,sweating,AA1,witness
+1917,1900,Vasquez,sweating t,AA1,witness
+1918,1900,Vasquez,breakdown,AA1,witness
+1919,1900,Vasquez,breakdown wait,AA1,witness
+1920,1900,Vasquez,confessing,AA1,witness
+1921,1900,Vasquez,confessing talking,AA1,witness
+1922,1900,Vasquez,closing eyes,AA1,witness
+1929,1923,Kévin,normal,AA1,
+1930,1923,Kévin,normal t,AA1,
+1931,1923,Kévin,upset,AA1,
+1932,1923,Kévin,upset t,AA1,
+1933,1923,Kévin,grin,AA1,
+1934,1923,Kévin,grin t,AA1,
+1935,1923,Kévin,sad,AA1,
+1936,1923,Kévin,sad t,AA1,
+1937,1923,Kévin,smug,AA1,
+1938,1923,Kévin,smug t,AA1,
+1939,1925,Kévin,try to draw katana,AA1,
+1940,1925,Kévin,try to draw katana t,AA1,
+1941,1923,Kévin,normal,AA1,witness
+1942,1923,Kévin,normal t,AA1,witness
+1943,1923,Kévin,upset,AA1,witness
+1944,1923,Kévin,upset t,AA1,witness
+1945,1923,Kévin,grin,AA1,witness
+1946,1923,Kévin,grin t,AA1,witness
+1947,1923,Kévin,sad,AA1,witness
+1948,1923,Kévin,sad t,AA1,witness
+1949,1923,Kévin,shocked,AA1,witness
+1950,1923,Kévin,shocked wait,AA1,witness
+1951,1923,Kévin,smug,AA1,witness
+1952,1923,Kévin,smug t,AA1,witness
+1953,1923,Kévin,too short for bench,AA1,witness
+1954,1925,Kévin,try to draw katana,AA1,witness
+1955,1925,Kévin,try to draw katana t,AA1,witness
+1956,1927,Kévin,crying,AA1,witness
+1957,1927,Kévin,crying t,AA1,witness
+1958,1927,Kévin,breakdown,AA1,witness
+1959,1927,Kévin,breadown t,AA1,witness
+1964,1960,Lotta,normal,AA1,
+1965,1960,Lotta,normal t,AA1,
+1966,1960,Lotta,embarassed,AA1,
+1967,1960,Lotta,embarassed t,AA1,
+1968,1960,Lotta,angry,AA1,
+1969,1960,Lotta,angry t,AA1,
+1970,1962,Lotta,despair,AA1,
+1971,1962,Lotta,despair t,AA1,
+1972,1962,Lotta,smug,AA1,
+1973,1962,Lotta,smug t,AA1,
+1974,1962,Lotta,upset,AA1,
+1975,1962,Lotta,upset t,AA1,
+1976,1962,Lotta,concerned,AA1,
+1977,1962,Lotta,concerned t,AA1,
+1978,1962,Lotta,happy,AA1,
+1979,1962,Lotta,happy t,AA1,
+1980,1960,Lotta,normal,AA1,
+1981,1960,Lotta,normal t,AA1,
+1982,1960,Lotta,embarassed,AA1,
+1983,1960,Lotta,embarassed t,AA1,
+1984,1960,Lotta,angry,AA1,
+1985,1960,Lotta,angry t,AA1,
+1986,1960,Lotta,damage,AA1,
+1987,1960,Lotta,damage wait,AA1,
+1988,1962,Lotta,despair,AA1,
+1989,1962,Lotta,despair t,AA1,
+1990,1962,Lotta,smug,AA1,
+1991,1962,Lotta,smug t,AA1,
+1992,1962,Lotta,upset,AA1,
+1993,1962,Lotta,upset t,AA1,
+1994,1962,Lotta,concerned,AA1,
+1995,1962,Lotta,concerned t,AA1,
+1996,1962,Lotta,happy,AA1,
+1997,1962,Lotta,happy t,AA1,
+2006,1998,Yogi,normal,AA1,
+2007,1998,Yogi,normal t,AA1,
+2008,1998,Yogi,falling alseep,AA1,
+2009,1998,Yogi,sleeping,AA1,
+2010,1998,Yogi,waking up,AA1,
+2011,2000,Yogi,looking at his side,AA1,
+2012,2000,Yogi,looking at his side t,AA1,
+2013,2000,Yogi,looking up,AA1,
+2014,2000,Yogi,looking up t,AA1,
+2015,2002,Yogi,furious,AA1,
+2016,2002,Yogi,furious t,AA1,
+2017,1998,Yogi,normal,AA1,witness
+2018,1998,Yogi,normal t,AA1,witness
+2019,1998,Yogi,falling alseep,AA1,witness
+2020,1998,Yogi,sleeping,AA1,witness
+2021,1998,Yogi,waking up,AA1,witness
+2022,1998,Yogi,becoming serious,AA1,witness
+2023,1998,Yogi,serious,AA1,witness
+2024,2000,Yogi,looking at his side,AA1,witness
+2025,2000,Yogi,looking at his side t,AA1,witness
+2026,2000,Yogi,looking up,AA1,witness
+2027,2000,Yogi,looking up t,AA1,witness
+2028,2002,Yogi,furious,AA1,witness
+2029,2002,Yogi,furious t,AA1,witness
+2030,2002,Yogi,furious falling,AA1,witness
+2031,???,???,???,AA1,witness
+2032,2004,Yogi,true self,AA1,witness
+2033,2004,Yogi,true self t,AA1,witness
+2034,2004,Yogi,true self sad,AA1,witness
+2035,2004,Yogi,true self sad t,AA1,witness
+2050,2046,Manfred,normal,AA1,
+2051,2046,Manfred,normal t,AA1,
+2052,2046,Manfred,grin,AA1,
+2053,2046,Manfred,grin t,AA1,
+2054,2046,Manfred,showing taser,AA1,
+2055,2046,Manfred,showing taser t,AA1,
+2056,2036,Manfred,normal,AA1,trial
+2057,2036,Manfred,normal t,AA1,trial
+2058,2036,Manfred,smug,AA1,trial
+2059,2036,Manfred,smug t,AA1,trial
+2060,2036,Manfred,thinking,AA1,trial
+2061,2036,Manfred,thinking t,AA1,trial
+2062,2038,Manfred,objection,AA1,trial
+2063,2038,Manfred,objection wait,AA1,trial
+2064,2040,Manfred,damage,AA1,trial
+2065,2040,Manfred,damage wait,AA1,trial
+2066,2042,Manfred,raising hand,AA1,trial
+2067,2042,Manfred,raising hand t,AA1,trial
+2068,2042,Manfred,snap finger,AA1,trial
+2069,2042,Manfred,snap finger wait,AA1,trial
+2070,2044,Manfred,Breakdown 1,AA1,trial
+2071,2044,Manfred,Breakdown 2,AA1,trial
+2072,2048,Manfred,slamming head,AA1,trial
+2073,2048,Manfred,slamming head faster,AA1,trial
+2074,2044,Manfred,Breakdown 3,AA1,trial
+2077,2075,Polly,normal,AA1,
+2078,2075,Polly,normal t,AA1,
+2079,???,???,???,,
+2082,,,,,
+2085,,,,,
+2088,,,,,
+2091,,,,,
+2092,,,,,
+2095,,,,,
+2098,,,,,
+2101,,,,,
+2104,,,,,
+2107,,,,,
+2110,,,,,
+2113,,,,,
+2333,,,,,
+2336,,,,,
+2339,,,,,
+2340,,,,,
+2341,,,,,
+2344,,,,,
+2345,,,,,
+2346,,,,,
+2347,,,,,
+2348,,,,,
+2349,,,,,
+2350,,,,,
+2353,,,,,
+2356,,,,,
+2551,2535,Phoenix,normal t,AA2,
+2552,2537,Phoenix,slam desk,AA2,
+2553,2539,Phoenix,slam desk wait,AA2,
+2554,2539,Phoenix,slam desk t,AA2,
+2555,2543,Phoenix,sweating,AA2,
+2556,2543,Phoenix,sweating t,AA2,
+2557,???,???,,AA2,
+2558,2549,Phoenix,desperate,AA2,
+2563,2559,Maya,sad,AA2,
+2564,2559,Maya,sad t,AA2,
+2565,2559,Maya,normal,AA2,
+2566,2559,Maya,normal t,AA2,
+2567,2559,Maya,thinking,AA2,
+2568,2559,Maya,thinking t,AA2,
+2569,2559,Maya,look down,AA2,
+2570,2559,Maya,look down t,AA2,
+2571,2561,Maya,sad,AA2,
+2572,2561,Maya,sad t,AA2,
+2573,,,,AA2,
+2574,,,,AA2,
+2575,2561,Maya,bothered,AA2,
+2576,2561,Maya,bothered t,AA2,
+2577,2561,Maya,angry,AA2,
+2578,2561,Maya,angry t,AA2,
+2579,,,,AA2,
+2580,,,,AA2,
+2581,,,,AA2,
+2582,2561,Maya,crying eyes closed,AA2,
+2585,2583,Mia,normal,AA2,
+2586,2583,Mia,serious,AA2,co-councel
+2603,2599,Edgeworth,normal,AA2,
+2604,2599,Edgeworth,normal t,AA2,
+2605,2599,Edgeworth,angry,AA2,
+2606,2599,Edgeworth,angry t,AA2,
+2607,2599,Edgeworth,concerned,AA2,
+2608,2599,Edgeworth,concerned t,AA2,
+2609,2599,Edgeworth,looking away,AA2,
+2610,2599,Edgeworth,looking away t,AA2,
+2611,2599,Edgeworth,confident,AA2,
+2612,2599,Edgeworth,confident t,AA2,
+2613,2587,Edgeworth,normal,AA2,trial
+2614,2587,Edgeworth,normal t,AA2,trial
+2615,2591,Edgeworth,slamming desk,AA2,trial
+2616,2591,Edgeworth,slamming desk wait,AA2,trial
+2617,2591,Edgeworth,slamming desk t,AA2,trial
+2618,2589,Edgeworth,pointing finger,AA2,trial
+2619,2589,Edgeworth,pointing finger t,AA2,trial
+2620,2587,Edgeworth,file,AA2,trial
+2621,2587,Edgeworth,file t,AA2,trial
+2622,2589,Edgeworth,thinking,AA2,trial
+2623,2589,Edgeworth,thinking t,AA2,trial
+2624,2591,Edgeworth,furious,AA2,trial
+2625,2591,Edgeworth,furious t,AA2,trial
+2626,2593,Edgeworth,objection bis wait,AA2,trial
+2627,2593,Edgeworth,objection bis t,AA2,trial
+2628,2587,Edgeworth,objection,AA2,trial
+2629,2595,Edgeworth,damage,AA2,trial
+2630,2597,Edgeworth,bowing,AA2,trial
+2631,2593,Edgeworth,objection bis,AA2,trial
+2632,2597,Edgeworth,bowing wait,AA2,trial
+2633,2587,Edgeworth,objection wait,AA2,trial
+2634,2587,Edgeworth,eyes closed,AA2,trial
+2645,2635,Gumshoe,thinking,AA2,
+2645,2643,Gumshoe,thinking,AA2,wounded
+2646,2637,Gumshoe,confident,AA2,
+2647,2637,Gumshoe,confident t,AA2,
+2648,2641,Gumshoe,angry,AA2,
+2649,2641,Gumshoe,angry t,AA2,
+2650,2641,Gumshoe,sad,AA2,
+2651,2641,Gumshoe,sad t,AA2,
+2652,2635,Gumshoe,thinking bis,AA2,
+2652,2643,Gumshoe,thinking bis,AA2,wounded
+2653,2635,Gumshoe,thinking t,AA2,
+2653,2643,Gumshoe,thinking t,AA2,wounded
+2654,2643,Gumshoe,confident,AA2,wounded
+2655,2643,Gumshoe,confident t,AA2,wounded
+2656,2635,Gumshoe,laughing,AA2,
+2656,2643,Gumshoe,laughing,AA2,wounded
+2657,2635,Gumshoe,happy t,AA2,
+2657,2643,Gumshoe,happy t,AA2,wounded
+2674,2658,Wellington,normal,AA2,
+2675,2658,Wellington,normal t,AA2,
+2676,2660,Wellington,afraid,AA2,
+2677,2660,Wellington,afraid t,AA2,
+2678,2660,Wellington,furious,AA2,
+2679,2660,Wellington,furious t,AA2,
+2680,2666,Wellington,strangling himself,AA2,
+2681,2668,Wellington,crazy,AA2,
+2682,2664,Wellington,panicking t,AA2,
+2683,2666,Wellington,breakdown,AA2,
+2684,2658,Wellington,shrug,AA2,
+2685,2666,Wellington,falling after breakdown,AA2,
+2688,2686,Maggy,normal,AA2,
+2689,2686,Maggy,normal t,AA2,
+2690,2701,Maggy,happy,AA2,
+2691,2701,Maggy,happy t,AA2,
+2692,2701,Maggy,determined,AA2,
+2693,2701,Maggy,determined t,AA2,
+2694,2701,Maggy,sad,AA2,
+2695,2701,Maggy,sad t,AA2,
+2696,2686,Maggy,salute,AA2,
+2697,2703,Maggy,normal,AA2,co-councel
+2698,2703,Maggy,normal t,AA2,co-councel
+2699,2703,Maggy,determined,AA2,co-councel
+2700,2703,Maggy,determined t,AA2,co-councel
+2709,2705,Payne,damage,AA2,
+2710,2707,Payne,confident,AA2,
+2711,2707,Payne,confident t,AA2,
+2716,2712,Manfred,cruel,AA2,
+2717,2712,Manfred,thinking,AA2,
+2718,2714,Manfred,raising arm,AA2,
+2719,2720,Franziska,normal,AA2,trial
+2722,2720,Franziska,normal t,AA2,trial
+2725,2726,Franziska,thinking,AA2,trial
+2728,2726,Franziska,thinking t,AA2,trial
+2731,2723,Franziska,confident,AA2,trial
+2734,2723,Franziska,confident t,AA2,trial
+2737,2726,Franziska,palm up wait,AA2,trial
+2740,2726,Franziska,palm up t,AA2,trial
+2743,2729,Franziska,sweating,AA2,trial
+2744,2729,Franziska,sweating t,AA2,trial
+2745,2738,Franziska,whip above head,AA2,trial
+2746,2738,Franziska,whip above head t,AA2,trial
+2747,2729,Franziska,furious,AA2,trial
+2748,2729,Franziska,furious t,AA2,trial
+2749,2726,Franziska,palm up,AA2,trial
+2750,2732,Franziska,bowing,AA2,trial
+2751,2735,Franziska,whipping,AA2,trial
+2752,2723,Franziska,damage,AA2,trial
+2753,2741,Franziska,normal,AA2,
+2754,2741,Franziska,normal t,AA2,
+2755,2741,Franziska,pointing finger,AA2,
+2756,2741,Franziska,pointing finger t,AA2,
+2757,2741,Franziska,smug,AA2,
+2758,2741,Franziska,smug t,AA2,
+2759,2738,Franziska,crying,AA2,
+2760,2738,Franziska,crying t,AA2,
+2761,,,,AA2,
+2762,2741,Franziska,judging,AA2,
+2763,2741,Franziska,judging t,AA2,
+2766,2764,Daisy,normal,AA2,
+2767,2764,Daisy,normal t,AA2,
+2768,2781,Daisy,thinking,AA2,
+2769,2781,Daisy,thinking t,AA2,
+2770,2781,Daisy,fool,AA2,
+2771,2781,Daisy,fool t,AA2,
+2772,2783,Daisy,playing with hat,AA2,
+2773,2783,Daisy,playing with hat t,AA2,
+2774,2783,Daisy,worried,AA2,
+2775,2783,Daisy,worried t,AA2,
+2776,2785,Daisy,angry,AA2,
+2777,2785,Daisy,angry t,AA2,
+2778,2787,Daisy,damage,AA2,
+2779,2787,Daisy,confessing,AA2,
+2780,2787,Daisy,confessing t,AA2,
+2789,2790,Pearl,normal,AA2,
+2792,2790,Pearl,normal t,AA2,
+2795,2790,Pearl,serious,AA2,
+2798,2790,Pearl,serious t,AA2,
+2799,2793,Pearl,crying,AA2,
+2800,2793,Pearl,crying t,AA2,
+2801,2790,Pearl,motivated,AA2,
+2802,2790,Pearl,motivated t,AA2,
+2803,2793,Pearl,surprised wait,AA2,
+2804,2793,Pearl,surprised t,AA2,
+2805,2790,Pearl,worried,AA2,
+2806,2790,Pearl,worried t,AA2,
+2807,2796,Pearl,playful,AA2,
+2808,2796,Pearl,playful t,AA2,
+2809,2796,Pearl,happy,AA2,
+2810,2796,Pearl,happy t,AA2,
+2811,2790,Pearl,sad,AA2,
+2812,2790,Pearl,sad t,AA2,
+2813,2793,Pearl,surprised,AA2,
+2816,2814,Morgan,normal,AA2,
+2817,2814,Morgan,normal t,AA2,
+2818,2824,Morgan,furious,AA2,
+2819,2824,Morgan,furious t,AA2,
+2820,2824,Morgan,judge,AA2,
+2821,2824,Morgan,judge t,AA2,
+2822,2814,Morgan,sad,AA2,
+2823,2814,Morgan,sad t,AA2,
+2826,2827,Sashoff,normal,AA2,
+2829,2827,Sashoff,normal t,AA2,
+2832,2830,Sashoff,gossiping,AA2,
+2833,2830,Sashoff,gossiping t,AA2,
+2834,2830,Sashoff,drool,AA2,
+2835,2830,Sashoff,drool t,AA2,
+2836,2837,Afforme,normal,AA2,
+2839,2837,Afforme,normal t,AA2,
+2842,,Afforme ?,,AA2,
+2843,2840,Afforme,furious t,AA2,
+2844,,Afforme ?,,AA2,
+2845,2840,Afforme,machiavelic t,AA2,
+2850,2846,Lotta,normal,AA2,
+2851,2846,Lotta,normal t,AA2,
+2852,2846,Lotta,embarassed,AA2,
+2853,2846,Lotta,embarassed t,AA2,
+2854,2846,Lotta,furious,AA2,
+2855,2846,Lotta,furious t,AA2,
+2856,2848,Lotta,sad,AA2,
+2857,2848,Lotta,sad t,AA2,
+2858,2848,Lotta,confident,AA2,
+2859,2848,Lotta,confident t,AA2,
+2860,2848,Lotta,upset,AA2,
+2861,2848,Lotta,upset t,AA2,
+2862,2848,Lotta,worried,AA2,
+2863,2848,Lotta,worried t,AA2,
+2864,2848,Lotta,happy,AA2,
+2865,2848,Lotta,happy t,AA2,
+2866,2846,Lotta,damage,AA2,
+2867,2846,Lotta,damage wait,AA2,
+2868,2869,Monique,normal,AA2,
+2871,2869,Monique,normal t,AA2,
+2874,2869,Monique,playful,AA2,
+2877,2869,Monique,playful t,AA2,
+2880,2872,Monique,thinking,AA2,
+2881,2872,Monique,thinking t,AA2,
+2882,2875,Monique,happy,AA2,
+2883,2875,Monique,happy t,AA2,
+2884,2878,Monique,shiny,AA2,
+2885,2878,Monique,shiny t,AA2,
+2886,2872,Monique,sad,AA2,
+2887,2872,Monique,sad t,AA2,
+2888,2872,Monique,crying,AA2,
+2889,2878,Monique,shiny dancing,AA2,
+2890,2891,Galactica,normal,AA2,
+2893,2891,Galactica,normal t,AA2,
+2896,2894,Galactica,launching cards wait,AA2,
+2899,2894,Galactica,launching cards t,AA2,
+2902,2897,Galactica,sweating,AA2,
+2903,2897,Galactica,sweating t,AA2,
+2904,2891,Galactica,flattered,AA2,
+2905,2891,Galactica,flattered t,AA2,
+2906,2900,Galactica,begging,AA2,
+2907,2900,Galactica,begging t,AA2,
+2908,2894,Galactica,launching cards,AA2,
+2909,2894,Galactica,launching cards wait,AA2,
+2910,2894,Galactica,launching cards t,AA2,
+2911,2894,Galactica,launching cards,AA2,
+2914,2912,Woodman,normal,AA2,without Trilo
+2915,2912,Woodman,normal t,AA2,without Trilo
+2916,2912,Woodman,normal,AA2,
+2917,2912,Woodman,normal t,AA2,
+2918,2912,Woodman,getting punched,AA2,
+2919,2912,Woodman,after getting punched t,AA2,
+2920,2912,Woodman,after getting punched trilo talking,AA2,
+2921,2912,Woodman,normal trilo talking,AA2,
+2922,2928,Woodman,trilo furious,AA2,
+2923,2928,Woodman,trilo furious t,AA2,
+2924,2912,Woodman,trilo sulk,AA2,
+2925,2912,Woodman,trilo sulk t,AA2,
+2926,2928,Woodman,damage,AA2,
+2927,2912,Woodman,getting punched,AA2,
+2930,2931,Moe,Laughing,AA2,
+2933,2934,Moe,giggle,AA2,
+2936,2934,Moe,giggle t,AA2,
+2939,2937,Moe,explaining,AA2,
+2942,2937,Moe,explaining t,AA2,
+2943,2934,Moe,serious,AA2,
+2944,2934,Moe,serious t,AA2,
+2945,2940,Moe,sad,AA2,
+2946,2940,Moe,sad t,AA2,
+2947,2931,Moe,damage,AA2,
+2948,2937,Moe,furious,AA2,
+2949,2937,Moe,furious t,AA2,
+2952,2950,Acro,normal,AA2,
+2953,2950,Acro,normal t,AA2,
+2954,2950,Acro,sad,AA2,
+2955,2950,Acro,sad t,AA2,
+2956,2968,Acro,smiling,AA2,
+2957,2968,Acro,smiling t,AA2,
+2958,2950,Acro,angry,AA2,
+2959,2950,Acro,angry t,AA2,
+2960,2968,Acro,crying,AA2,
+2961,2968,Acro,crying t,AA2,
+2962,2971,Acro,bird arriving,AA2,
+2963,2971,Acro,looking at bird,AA2,
+2964,2971,Acro,letting go bird,AA2,
+2965,2950,Acro,sad no blink,AA2,
+2966,2950,Acro,angry bis,AA2,
+2967,2968,Acro,start crying,AA2,
+2970,2950,Acro,normal no blink,AA2,
+2973,2974,Engarde,normal,AA2,
+2976,2974,Engarde,normal t,AA2,
+2979,2974,Engarde,disappointed,AA2,
+2982,2974,Engarde,disappointed t,AA2,
+2985,2977,Engarde,radio,AA2,
+2988,2977,Engarde,radio t,AA2,
+2991,2977,Engarde,opening radio,AA2,
+2994,2983,Engarde,holding glass,AA2,
+2995,2983,Engarde,holding glass t,AA2,
+2996,2986,Engarde,giggling,AA2,
+2997,2986,Engarde,giggling t,AA2,
+2998,2989,Engarde,panicked,AA2,
+2999,2989,Engarde,panicked t,AA2,
+3000,2992,Engarde,breakdown,AA2,
+3001,2980,Engarde,dropping facade,AA2,
+3002,2977,Engarde,playing with radio,AA2,
+3003,2977,Engarde,playing with radio t,AA2,
+3004,2986,Engarde,giggling,AA2,
+3005,2986,Engarde,giggling t,AA2,
+3006,3007,Andrea,normal,AA2,
+3009,3007,Andrea,normal t,AA2,
+3012,3010,Andrea,thinking,AA2,
+3015,3010,Andrea,thinking t,AA2,
+3018,3010,Andrea,surprised,AA2,
+3019,3010,Andrea,surprised t,AA2,
+3020,3007,Andrea,serious,AA2,
+3021,3007,Andrea,serious t,AA2,
+3022,3007,Andrea,sweating,AA2,
+3023,3007,Andrea,sweating t,AA2,
+3024,3007,Andrea,sad,AA2,
+3025,3007,Andrea,sad t,AA2,
+3026,3007,Andrea,panicked,AA2,
+3027,3007,Andrea,panicked t,AA2,
+3028,3013,Andrea,damage,AA2,
+3029,3016,Andrea,reading book,AA2,
+3030,3016,Andrea,reading book t,AA2,
+3031,3010,Andrea,happy,AA2,
+3032,3010,Andrea,happy t,AA2,
+3033,3034,de Killer,normal,AA2,
+3036,3034,de Killer,normal t,AA2,
+3039,3037,de Killer,normal,AA2,Groom
+3042,3037,de Killer,normal t,AA2,Groom
+3043,,,,,
+3046,3044,de Killer,normal,AA2,Talky
+3047,3044,de Killer,normal t,AA2,Talky
+3048,3053,de Killer,angry,AA2,Talky
+3049,3053,de Killer,angry t,AA2,Talky
+3050,3044,de Killer,sweating,AA2,Talky
+3051,3044,de Killer,sweating t,AA2,Talky
+3052,3055,de Killer,damage,AA2,Talky
+3059,3057,Oldbag,with helmet,AA2,
+3060,3072,Oldbag,normal,AA2,
+3061,3072,Oldbag,normal t,AA2,
+3062,3074,Oldbag,playful,AA2,
+3063,3074,Oldbag,playful t,AA2,
+3064,3074,Oldbag,angry,AA2,
+3065,3074,Oldbag,angry t,AA2,
+3066,3072,Oldbag,smug,AA2,
+3067,3072,Oldbag,smug t,AA2,
+3068,3072,Oldbag,in love,AA2,
+3069,3072,Oldbag,in love t,AA2,
+3070,3057,Oldbag,using gun,AA2,
+3071,3074,Oldbag,scared,AA2,
+3080,3076,Will,normal,AA2,
+3081,3076,Will,normal t,AA2,
+3082,3078,Will,happy,AA2,
+3083,3078,Will,happy t,AA2,
+3084,3076,Will,sad,AA2,
+3085,3076,Will,sad t,AA2,
+3086,3078,Will,sweating,AA2,
+3087,3078,Will,sweating t,AA2,
+3088,3076,Will,thinking,AA2,
+3089,3076,Will,thinking t,AA2,
+3092,3090,Pearl (chan Mia),normal,AA2,
+3093,3090,Pearl (chan Mia),normal t,AA2,
+3094,3090,Pearl (chan Mia),serious,AA2,
+3095,3090,Pearl (chan Mia),serious t,AA2,
+3096,3090,Pearl (chan Mia),surprised,AA2,
+3097,3090,Pearl (chan Mia),surprised t,AA2,
+3098,3090,Pearl (chan Mia),normal,AA2,side
+3099,3090,Pearl (chan Mia),normal t,AA2,side
+3100,3090,Pearl (chan Mia),serious,AA2,side
+3101,3090,Pearl (chan Mia),serious t,AA2,side
+3102,3090,Pearl (chan Mia),serious forward,AA2,side
+3103,3090,Pearl (chan Mia),serious forward t,AA2,side
+3104,,,,,
+3107,,,,,
+3110,,,,,
+3113,,,,,
+3116,,,,,
+3119,,,,,
+3120,,,,,
+3121,,,,,
+3122,,,,,
+3123,,,,,
+3126,,,,,
+3129,,,,,
+3132,,,,,
+3135,,,,,
+3138,,,,,
+3139,,,,,
+3142,,,,,
+3147,,,,,
+3148,,,,,
+3151,,,,,
+3152,,,,,
+3153,,,,,
+3156,,,,,
+3161,,,,,
+3162,,,,,
+3163,,,,,
+3164,,,,,
+3167,,,,,
+3170,,,,,
+3175,,,,,
+3176,,,,,
+3177,,,,,
+3178,,,,,
+3179,,,,,
+3182,,,,,
+3185,,,,,
+3188,,,,,
+3191,,,,,
+3194,,,,,
+3197,,,,,
+3200,,,,,
+3528,,,,,
+3753,3735,Phoenix,normal,AA3,
+3754,3735,Phoenix,normal t,AA3,
+3755,3735,Phoenix,thinking,AA3,
+3756,3735,Phoenix,thinking bis,AA3,
+3757,3735,Phoenix,thinking t,AA3,
+3758,3737,Phoenix,slamming desk,AA3,
+3759,3737,Phoenix,slamming desk wait,AA3,
+3760,3737,Phoenix,slamming desk t,AA3,
+3761,3739,Phoenix,objection,AA3,
+3762,3739,Phoenix,objection wait,AA3,
+3763,3739,Phoenix,objection t,AA3,
+3764,3741,Phoenix,file,AA3,
+3765,3741,Phoenix,file t,AA3,
+3766,3743,Phoenix,sweating,AA3,
+3767,3743,Phoenix,sweating t,AA3,
+3768,3745,Phoenix,damage,AA3,
+3769,3747,Phoenix,embarassed,AA3,
+3770,3747,Phoenix,embarassed t,AA3,
+3771,3751,Phoenix,confident,AA3,
+3772,3751,Phoenix,confident t,AA3,
+3773,3735,Phoenix,nod,AA3,
+3774,3735,Phoenix,shooking head,AA3,
+3775,,,,,
+3776,3749,Phoenix,desperate,AA3,
+3777,3743,Phoenix,received coffee,AA3,
+3778,3743,Phoenix,received coffee with eyes,AA3,
+3779,3747,Phoenix,drunking coffee,AA3,
+3780,3751,Phoenix,holding coffee mug,AA3,
+3781,3751,Phoenix,holding coffee mug t,AA3,
+3782,3739,Phoenix,objection wait,AA3,
+3783,3739,Phoenix,objection slow,AA3,
+3794,3784,Maya,worried,AA3,
+3795,3784,Maya,worried t,AA3,
+3796,3786,Maya,normal,AA3,
+3797,3786,Maya,normal t,AA3,
+3798,3784,Maya,thinking,AA3,
+3799,3784,Maya,thinking t,AA3,
+3800,3788,Maya,looking down,AA3,
+3801,3788,Maya,looking down t,AA3,
+3802,3788,Maya,sad,AA3,
+3803,3788,Maya,sad t,AA3,
+3804,3788,Maya,motivated,AA3,
+3805,3788,Maya,motivated t,AA3,
+3806,3790,Maya,happy,AA3,
+3807,3790,Maya,happy t,AA3,
+3808,3788,Maya,thinking/worried,AA3,
+3809,3788,Maya,thinking/worried t,AA3,
+3810,3784,Maya,teasing,AA3,
+3811,3784,Maya,teasing t,AA3,
+3812,3788,Maya,angry,AA3,
+3813,3788,Maya,angry t,AA3,
+3814,3784,Maya,surprised,AA3,
+3815,3784,Maya,surprised t,AA3,
+3816,3786,Maya,shocked,AA3,
+3817,3790,Maya,happy/nod,AA3,
+3818,3788,Maya,crying eyes closed,AA3,
+3819,3786,Maya,terrorised,AA3,
+3820,3792,Maya,normal,AA3,co councel
+3821,3792,Maya,normal t,AA3,co councel
+3822,3792,Maya,serious,AA3,co councel
+3823,3792,Maya,serious t,AA3,co councel
+3824,3792,Maya,disappointed,AA3,co councel
+3825,3792,Maya,disappointed t,AA3,co councel
+3826,3792,Maya,thinking,AA3,co councel
+3827,3792,Maya,thinking t,AA3,co councel
+3828,3792,Maya,motivated,AA3,co councel
+3829,3792,Maya,motivated t,AA3,co councel
+3832,3830,Judge,normal,AA3,
+3833,3830,Judge,normal t,AA3,
+3834,3830,Judge,nod,AA3,
+3835,3830,Judge,shooking head,AA3,
+3836,3830,Judge,serious,AA3,
+3837,3830,Judge,serious t,AA3,
+3838,3830,Judge,surprised,AA3,
+3839,3830,Judge,surprised t,AA3,
+3840,3830,Judge,thinking,AA3,
+3841,3830,Canadian judge,normal,AA3,
+3842,3830,Canadian judge,normal t,AA3,
+3843,3830,Canadian judge,nod,AA3,
+3844,3830,Canadian judge,shooking head,AA3,
+3845,3830,Canadian judge,serious,AA3,
+3846,3830,Canadian judge,serious t,AA3,
+3847,3830,Canadian judge,surprised,AA3,
+3848,3830,Canadian judge,surprised t,AA3,
+3849,3830,Canadian judge,thinking,AA3,
+3854,3850,Gumshoe,normal,AA3,
+3855,3850,Gumshoe,normal t,AA3,
+3856,3850,Gumshoe,thinking,AA3,
+3857,3850,Gumshoe,thinking t,AA3,
+3858,3850,Gumshoe,happy,AA3,
+3859,3850,Gumshoe,happy t,AA3,
+3860,3850,Gumshoe,motivated,AA3,
+3861,3850,Gumshoe,motivated t,AA3,
+3862,3850,Gumshoe,confident,AA3,
+3863,3850,Gumshoe,confident t,AA3,
+3864,3852,Gumshoe,angry,AA3,
+3865,3852,Gumshoe,angry t,AA3,
+3866,3852,Gumshoe,sad,AA3,
+3867,3852,Gumshoe,sad t,AA3,
+3868,3850,Gumshoe,serious,AA3,
+3869,3850,Gumshoe,serious t,AA3,
+3870,3850,Young Gumshoe,normal,AA3,
+3871,3850,Young Gumshoe,normal t,AA3,
+3872,3850,Young Gumshoe,thinking,AA3,
+3873,3850,Young Gumshoe,thinking t,AA3,
+3874,3850,Young Gumshoe,happy,AA3,
+3875,3850,Young Gumshoe,happy t,AA3,
+3876,3850,Young Gumshoe,motivated,AA3,
+3877,3850,Young Gumshoe,motivated t,AA3,
+3878,3850,Young Gumshoe,confident,AA3,
+3879,3850,Young Gumshoe,confident t,AA3,
+3880,3852,Young Gumshoe,angry,AA3,
+3881,3852,Young Gumshoe,angry t,AA3,
+3882,3852,Young Gumshoe,sad,AA3,
+3883,3852,Young Gumshoe,sad t,AA3,
+3884,3850,Young Gumshoe,serious,AA3,
+3885,3850,Young Gumshoe,serious t,AA3,
+3896,3886,Mia,normal,AA3,
+3897,3886,Mia,normal t,AA3,
+3898,3886,Mia,thinking,AA3,
+3899,3886,Mia,thinking t,AA3,
+3900,3888,Mia,confident,AA3,
+3901,3888,Mia,confident t,AA3,
+3902,3888,Mia,playing with hair,AA3,
+3903,3888,Mia,unsettled,AA3,
+3904,3888,Mia,unsettled t,AA3,
+3905,3890,Mia,slamming desk,AA3,
+3906,3890,Mia,slamming desk wait,AA3,
+3907,3890,Mia,slamming desk t,AA3,
+3908,3892,Mia,objection,AA3,
+3909,3892,Mia,objection wait,AA3,
+3910,3892,Mia,objection wait t,AA3,
+3911,3894,Mia,damage,AA3,
+3912,3892,Mia,slow objection,AA3,
+3913,3892,Mia,objection wait,AA3,
+3918,3914,Armando,normal,AA3,
+3919,3914,Armando,normal t,AA3,
+3920,3914,Armando,serious,AA3,
+3921,3914,Armando,serious t,AA3,
+3922,3914,Armando,breaking mug with his hand,AA3,
+3923,3916,Armando,leaning,AA3,
+3924,3916,Armando,leaning t,AA3,
+3925,3916,Armando,bleeding,AA3,
+3926,3916,Armando,bleeding t,AA3,
+3931,3927,Young payne,normal,AA3,
+3932,3927,Young payne,normal t,AA3,
+3933,3929,Young payne,sweating,AA3,
+3934,3929,Young payne,sweating t,AA3,
+3935,3929,Young payne,confident,AA3,
+3936,3929,Young payne,confident t,AA3,
+3937,3927,Young payne,damage,AA3,
+3938,3927,Young payne,breakdown,AA3,
+3939,3927,Payne,normal,AA3,
+3940,3927,Payne,normal t,AA3,
+3941,3929,Payne,sweating,AA3,
+3942,3929,Payne,sweating t,AA3,
+3943,3929,Payne,confident,AA3,
+3944,3929,Payne,confident t,AA3,
+3951,3945,Phoenix student,normal,AA3,
+3952,3945,Phoenix student,normal t,AA3,
+3953,3947,Phoenix student,upset,AA3,
+3954,3947,Phoenix student,upset t,AA3,
+3955,3947,Phoenix student,readjusting mask,AA3,
+3956,3945,Phoenix student,sad,AA3,
+3957,3945,Phoenix student,sad t,AA3,
+3958,3945,Phoenix student,serious,AA3,
+3959,3945,Phoenix student,serious t,AA3,
+3960,3949,Phoenix student,crying,AA3,
+3961,3945,Phoenix student,coughing,AA3,
+3970,3962,Dahlia,normal,AA3,
+3971,3962,Dahlia,normal t,AA3,
+3972,3966,Dahlia,sweating,AA3,
+3973,3966,Dahlia,sweating t,AA3,
+3974,3962,Dahlia,sad,AA3,
+3975,3962,Dahlia,sad t,AA3,
+3976,3966,Dahlia,demonic turning head,AA3,
+3977,3966,Dahlia,demonic t,AA3,
+3978,3964,Dahlia,true self,AA3,
+3979,3964,Dahlia,true self t,AA3,
+3980,3962,Dahlia,thinking,AA3,
+3981,3962,Dahlia,thinking t,AA3,
+3982,3968,Dahlia,damage,AA3,
+3983,3964,Dahlia,true self playing with hair,AA3,
+3984,3966,Dahlia,demonic,AA3,
+3985,3962,Dahlia,smiling,AA3,
+3992,3986,Ron,normal,AA3,
+3993,3986,Ron,normal t,AA3,
+3994,3988,Ron,upset,AA3,
+3995,3988,Ron,upset t,AA3,
+3996,3990,Ron,imploring,AA3,
+3997,3990,Ron,imploring t,AA3,
+3998,3986,Ron,sad,AA3,
+3999,3986,Ron,sad t,AA3,
+4000,3986,Ron,thinking,AA3,
+4001,3986,Ron,thinking t,AA3,
+4002,3990,Ron,sweating,AA3,
+4003,3990,Ron,sweating t,AA3,
+4004,3990,Ron,imploring/shouting,AA3,
+4017,4005,Atmey,normal,AA3,
+4018,4005,Atmey,normal t,AA3,
+4019,4007,Atmey,looking through loop,AA3,
+4020,4007,Atmey,looking through loop t,AA3,
+4021,4009,Atmey,serious,AA3,
+4022,4009,Atmey,serious t,AA3,
+4023,4011,Atmey,cleaning loop,AA3,
+4024,4011,Atmey,cleaning loop t,AA3,
+4025,4005,Atmey,sweating,AA3,
+4026,4005,Atmey,sweating t,AA3,
+4027,4015,Atmey,crazy,AA3,
+4028,4015,Atmey,crazy t,AA3,
+4029,4007,Atmey,starting to look through loop,AA3,
+4030,4007,Atmey,stop looking through loop,AA3,
+4031,4009,Atmey,damage,AA3,
+4032,4013,Atmey,earthquake,AA3,
+4033,4015,Atmey,hysterical laughing,AA3,
+4034,4005,Atmey,taking loop,AA3,
+4035,4005,Atmey,shining ring,AA3,
+4036,4013,Atmey,claping freeze frame,AA3,
+4041,4037,Désirée,normal,AA3,
+4042,4037,Désirée,normal t,AA3,
+4043,4037,Désirée,thinking,AA3,
+4044,4037,Désirée,thinking t,AA3,
+4045,4037,Désirée,smiling,AA3,
+4046,4037,Désirée,smiling t,AA3,
+4047,4039,Désirée,surprised,AA3,
+4048,4039,Désirée,surprised t,AA3,
+4049,4037,Désirée,smile,AA3,
+4058,4050,Larry,positive,AA3,
+4059,4050,Larry,positive t,AA3,
+4060,4052,Larry,happy,AA3,
+4061,4052,Larry,happy t,AA3,
+4062,4054,Larry,sad,AA3,
+4063,4054,Larry,sad t,AA3,
+4064,4052,Larry,sweating,AA3,
+4065,4056,Larry,angry t,AA3,
+4066,4052,Larry,embarassed,AA3,
+4067,4052,Larry,embarassed t,AA3,
+4074,4068,Andrea,normal,AA3,
+4075,4068,Andrea,normal t,AA3,
+4076,4070,Andrea,thinking,AA3,
+4077,4070,Andrea,thinking t,AA3,
+4078,4068,Andrea,happy,AA3,
+4079,4068,Andrea,happy t,AA3,
+4080,4072,Andrea,panicked,AA3,
+4081,4072,Andrea,panicked t,AA3,
+4082,4068,Andrea,sad,AA3,
+4083,4068,Andrea,sad t,AA3,
+4098,4084,Godot,normal,AA3,
+4099,4084,Godot,normal t,AA3,
+4100,4084,Godot,serious,AA3,
+4101,4084,Godot,serious t,AA3,
+4102,4084,Godot,confident,AA3,
+4103,4084,Godot,confident t,AA3,
+4104,4084,Armando,normal,AA3,
+4105,4084,Armando,normal t,AA3,
+4106,4084,Armando,confident,AA3,
+4107,4084,Armando,confident t,AA3,
+4108,4086,Godot,normal,AA3,trial
+4109,4086,Godot,normal t,AA3,trial
+4110,4088,Godot,confident,AA3,trial
+4111,4088,Godot,confident t,AA3,trial
+4112,4088,Godot,confident with mug,AA3,trial
+4113,4088,Godot,confident with mug t,AA3,trial
+4114,4090,Godot,thinking,AA3,trial
+4115,4090,Godot,thinking t,AA3,trial
+4116,4090,Godot,thinking with mug,AA3,trial
+4117,4090,Godot,thinking with mug t,AA3,trial
+4118,4088,Godot,upset,AA3,trial
+4119,4088,Godot,upset t,AA3,trial
+4120,4088,Godot,upset with mug,AA3,trial
+4121,4088,Godot,upset with mug t,AA3,trial
+4122,4094,Godot,serious,AA3,trial
+4123,4094,Godot,serious t,AA3,trial
+4124,4094,Godot,serious with mug,AA3,trial
+4125,4094,Godot,serious with mug t,AA3,trial
+4126,4094,Godot,slamming desk,AA3,trial
+4127,4094,Godot,slamming desk with mug,AA3,trial
+4128,4086,Godot,damage,AA3,trial
+4129,4092,Godot,spitting out coffee,AA3,trial
+4130,4086,Godot,smell coffee,AA3,trial
+4131,4086,Godot,drink coffee,AA3,trial
+4132,4086,Godot,frenetiquely drink coffee,AA3,trial
+4133,4088,Godot,confident receiving mug,AA3,trial
+4134,4088,Godot,upset receiving mug,AA3,trial
+4135,4096,Godot,throwing,AA3,trial
+4136,4096,Godot,throwing mug,AA3,trial
+4137,4096,Godot,throwing wait,AA3,trial
+4138,4096,Godot,move mug,AA3,trial
+4139,4096,Godot,move mug wait,AA3,trial
+4140,4096,Godot,throwing wait,AA3,trial
+4141,4086,Godot,damage wait,AA3,trial
+4142,4086,Godot,drink coffee wait,AA3,trial
+4143,4096,Godot,moving mug wait,AA3,trial
+4144,4086,Godot,start bleeding from mask,AA3,trial
+4145,4086,Godot,bleeding wait,AA3,trial
+4146,4086,Godot,bleeding t,AA3,trial
+4147,4090,Godot,thinking bleeding,AA3,trial
+4148,4090,Godot,thinking bleeding t,AA3,trial
+4153,4149,Maggy,normal,AA3,
+4154,4149,Maggy,normal t,AA3,
+4155,4149,Maggy,thinking,AA3,
+4156,4149,Maggy,thinking t,AA3,
+4157,4151,Maggy,determined,AA3,
+4158,4151,Maggy,dtermined t,AA3,
+4159,4151,Maggy,sad,AA3,
+4160,4151,Maggy,sad t,AA3,
+4173,4161,Armstrong,normal,AA3,
+4174,4161,Armstrong,normal t,AA3,
+4175,4163,Armstrong,happy,AA3,
+4176,4163,Armstrong,happy t,AA3,
+4177,4165,Armstrong,thinking,AA3,
+4178,4165,Armstrong,thinking t,AA3,
+4179,4165,Armstrong,sweating,AA3,
+4180,4165,Armstrong,sweating t,AA3,
+4181,4161,Armstrong,sad,AA3,
+4182,4161,Armstrong,sad t,AA3,
+4183,4167,Armstrong,damage,AA3,
+4184,4169,Armstrong,dancing,AA3,
+4193,4185,Tigre,normal,AA3,
+4194,4185,Tigre,normal t,AA3,
+4195,4187,Tigre,intimidating,AA3,
+4196,4187,Tigre,intimidating t,AA3,
+4197,4185,Tigre,happy,AA3,
+4198,4185,Tigre,happy t,AA3,
+4199,4185,Tigre,angry,AA3,
+4200,4185,Tigre,angry t,AA3,
+4201,4189,Tigre,imploring,AA3,
+4202,4189,Tigre,imploring t,AA3,
+4203,4185,Tigre,sweating,AA3,
+4204,4185,Tigre,sweating t,AA3,
+4205,4187,Tigre,roaring quick,AA3,
+4206,4187,Tigre,roaring slow,AA3,
+4207,4191,Tigre,b&w roar,AA3,
+4208,4187,Tigre,roaring freeze frame,AA3,
+4211,4209,Viola,normal,AA3,
+4212,4209,Viola,normal t,AA3,
+4213,4209,Viola,evasive,AA3,
+4214,4209,Viola,evasive t,AA3,
+4215,4209,Viola,crying,AA3,
+4216,4209,Viola,crying t,AA3,
+4217,4209,Viola,starting to cry,AA3,
+4220,4218,Maya (chan Mia),normal,AA3,
+4221,4219,Maya (chan Mia),normal t,AA3,
+4222,4220,Maya (chan Mia),leaning,AA3,
+4223,4221,Maya (chan Mia),leaning t,AA3,
+4234,4224,Kudo,normal,AA3,
+4235,4224,Kudo,normal t,AA3,
+4236,4224,Kudo,side ,AA3,
+4237,4224,Kudo,side t,AA3,
+4238,4226,Kudo,angry,AA3,
+4239,4226,Kudo,angry t,AA3,
+4240,4224,Kudo,surprised,AA3,
+4241,4224,Kudo,surprised t,AA3,
+4242,4228,Kudo,embarassed,AA3,
+4243,4228,Kudo,embarassed t,AA3,
+4244,4230,Kudo,eating seeds,AA3,
+4245,4232,Kudo,attacking with seeds,AA3,
+4246,4224,Kudo,calling birds,AA3,
+4249,4247,Basil,normal,AA3,
+4250,4248,Basil,normal t,AA3,
+4251,4249,Basil,showing something,AA3,
+4252,4250,Basil,showing something t,AA3,
+4253,4251,Basil,sweating,AA3,
+4254,4252,Basil,sweating t,AA3,
+4257,4255,Oldbag,helmet on,AA3,
+4258,4267,Oldbag,normal,AA3,
+4259,4267,Oldbag,normal t,AA3,
+4260,4271,Oldbag,playful,AA3,
+4261,4271,Oldbag,playful t,AA3,
+4262,4269,Oldbag,angry,AA3,
+4263,4269,Oldbag,angry t,AA3,
+4264,4267,Oldbag,confident,AA3,
+4265,4267,Oldbag,confident t,AA3,
+4266,4273,Oldbag,using gun,AA3,
+4285,4275,Young Edgeworth,normal,AA3,
+4286,4275,Young Edgeworth,normal t,AA3,
+4287,4277,Young Edgeworth,slamming desk wait,AA3,
+4288,4277,Young Edgeworth,slamming desk wait t,AA3,
+4289,4275,Young Edgeworth,finger raised,AA3,
+4290,4275,Young Edgeworth,finger raised t,AA3,
+4291,4275,Young Edgeworth,thinking,AA3,
+4292,4275,Young Edgeworth,thinking t,AA3,
+4293,4279,Young Edgeworth,furious,AA3,
+4294,4279,Young Edgeworth,furious t,AA3,
+4295,4281,Young Edgeworth,confident,AA3,
+4296,4281,Young Edgeworth,confident t,AA3,
+4297,4275,Young Edgeworth,damage freeze frame,AA3,
+4298,4281,Young Edgeworth,Objection 2,AA3,
+4299,4277,Young Edgeworth,slamming desk,AA3,
+4300,4283,Young Edgeworth,damage,AA3,
+4301,4275,Young Edgeworth,objection,AA3,
+4308,4302,Terry,normal,AA3,
+4309,4302,Terry,normal t,AA3,
+4310,4302,Terry,serious,AA3,
+4311,4302,Terry,serious t,AA3,
+4312,4304,Terry,sad,AA3,
+4313,4304,Terry,sad t,AA3,
+4314,4304,Terry,upset,AA3,
+4315,4304,Terry,upset t,AA3,
+4316,4306,Terry,determined,AA3,
+4317,4306,Terry,determined t,AA3,
+4318,4306,Terry,dying,AA3,
+4319,4306,Terry,dying t,AA3,
+4320,4302,Terry,coughing,AA3,
+4321,4302,Terry,coughing heavily,AA3,
+4322,4306,Terry,coughing blood,AA3,
+4325,4323,Misty,normal,AA3,
+4326,4323,Misty,normal t,AA3,
+4327,4323,Misty,tilting head,AA3,
+4328,4323,Misty,tilting head t,AA3,
+4339,4329,Larry,positive,AA3,
+4340,4329,Larry,positive t,AA3,
+4341,4331,Larry,happy,AA3,
+4342,4331,Larry,happy t,AA3,
+4343,4333,Larry,crying,AA3,
+4344,4333,Larry,crying t,AA3,
+4345,4331,Larry,sweating,AA3,
+4346,4335,Larry,angry t,AA3,
+4347,4331,Larry,embarassed,AA3,
+4348,4331,Larry,embarassed t,AA3,
+4349,4337,Larry,thinking,AA3,
+4350,4337,Larry,thinking t,AA3,
+4351,4331,Larry,serious,AA3,
+4352,4331,Larry,serious t,AA3,
+4353,4335,Larry,lower body shaking,AA3,
+4360,4354,Pearl,normal,AA3,
+4361,4354,Pearl,normal t,AA3,
+4362,4354,Pearl,serious,AA3,
+4363,4354,Pearl,serious t,AA3,
+4364,4356,Pearl,crying,AA3,
+4365,4356,Pearl,crying t,AA3,
+4366,4354,Pearl,motivated,AA3,
+4367,4354,Pearl,motivated t,AA3,
+4368,4356,Pearl,surprised,AA3,
+4369,4356,Pearl,surprised t,AA3,
+4370,4354,Pearl,worried,AA3,
+4371,4354,Pearl,worried t,AA3,
+4372,4358,Pearl,fantasm,AA3,
+4373,4358,Pearl,fantasm t,AA3,
+4374,4358,Pearl,happy,AA3,
+4375,4358,Pearl,happy t,AA3,
+4376,4354,Pearl,ashamed,AA3,
+4377,4354,Pearl,ashamed t,AA3,
+4378,4356,Pearl,surprise anim,AA3,
+4395,4391,Edgeworth,normal,AA3,
+4396,4391,Edgeworth,normal t,AA3,
+4397,4391,Edgeworth,angry,AA3,
+4398,4391,Edgeworth,angry t,AA3,
+4399,4391,Edgeworth,worried,AA3,
+4400,4391,Edgeworth,worried t,AA3,
+4401,4393,Edgeworth,upset,AA3,
+4402,4393,Edgeworth,upset t,AA3,
+4403,4391,Edgeworth,pensive,AA3,
+4404,4391,Edgeworth,pensive t,AA3,
+4405,4391,Edgeworth,smiling,AA3,
+4406,4391,Edgeworth,smiling t,AA3,
+4407,4379,Edgeworth,normal,AA3,defense attorney
+4408,4379,Edgeworth,normal t,AA3,defense attorney
+4409,4383,Edgeworth,slamming desk,AA3,defense attorney
+4410,4383,Edgeworth,slamming desk wait,AA3,defense attorney
+4411,4383,Edgeworth,slamming desk t,AA3,defense attorney
+4412,4381,Edgeworth,pointing finger,AA3,defense attorney
+4413,4381,Edgeworth,pointing finger t,AA3,defense attorney
+4414,4387,Edgeworth,thinking,AA3,defense attorney
+4415,4387,Edgeworth,thinking t,AA3,defense attorney
+4416,4389,Edgeworth,furious,AA3,defense attorney
+4417,4389,Edgeworth,furious t,AA3,defense attorney
+4418,4385,Edgeworth,objection wait,AA3,defense attorney
+4419,4385,Edgeworth,objection wait t,AA3,defense attorney
+4420,4379,Edgeworth,damage,AA3,defense attorney
+4421,4385,Edgeworth,objection,AA3,defense attorney
+4430,4422,Bikini,normal,AA3,
+4431,4422,Bikini,normal t,AA3,
+4432,4424,Bikini,thinking,AA3,
+4433,4424,Bikini,thinking t,AA3,
+4434,4426,Bikini,serious,AA3,
+4435,4426,Bikini,serious t,AA3,
+4436,4428,Bikini,shaking,AA3,
+4437,4428,Bikini,praying t,AA3,
+4438,4426,Bikini,sad,AA3,
+4439,4426,Bikini,sad t,AA3,
+4440,4424,Bikini,happy,AA3,
+4441,4424,Bikini,happy t,AA3,
+4442,4424,Bikini,Laughing 1,AA3,
+4443,4424,Bikini,Laughing 2,AA3,
+4460,4444,Iris,normal,AA3,
+4461,4444,Iris,normal t,AA3,
+4462,4444,Iris,surprised,AA3,
+4463,4444,Iris,surprised t,AA3,
+4464,4446,Iris,blushing,AA3,
+4465,4446,Iris,blushing t,AA3,
+4466,4448,Iris,serious,AA3,
+4467,4448,Iris,serious t,AA3,
+4468,4444,Iris,sad,AA3,
+4469,4444,Iris,sad t,AA3,
+4470,4444,Iris,crying,AA3,
+4471,4444,Iris,crying t,AA3,
+4472,4450,Iris,haughty,AA3,
+4473,4450,Iris,haughty t,AA3,
+4474,4444,Iris,normal with hood,AA3,
+4475,4444,Iris,normal t with hood,AA3,
+4476,4444,Iris,surprised with hood,AA3,
+4477,4444,Iris,surprised t with hood,AA3,
+4478,4454,Iris,sweating,AA3,
+4479,4454,Iris,sweating t,AA3,
+4480,4448,Dahlia,confident,AA3,
+4481,4448,Dahlia,confident t,AA3,
+4482,4448,Dahlia,furious,AA3,
+4483,4448,Dahlia,furious t,AA3,
+4484,4450,Dahlia,haughty playing with hair,AA3,
+4485,4452,Dahlia,damage,AA3,
+4486,4456,Dahlia,leaving host part 1,AA3,
+4487,4456,Dahlia,leaving host part 2,AA3,
+4488,4458,Maya,channeling end head 1,AA3,
+4489,4458,Maya,channeling end body,AA3,
+4490,4458,Maya,channeling end head 2,AA3,
+4491,4458,Maya,channeling end head 3,AA3,
+4492,4458,Maya,channeling end head 4,AA3,
+4495,4493,Franziska,normal,AA3,
+4496,4493,Franziska,normal t,AA3,
+4497,4510,Franziska,thinking,AA3,trial
+4498,4510,Franziska,thinking t,AA3,trial
+4499,4510,Franziska,confident,AA3,trial
+4500,4510,Franziska,confident t,AA3,trial
+4501,4525,Franziska,arm stretched,AA3,trial
+4502,4525,Franziska,arm stretched t,AA3,trial
+4503,4525,Franziska,sweating,AA3,trial
+4504,4525,Franziska,sweating t,AA3,trial
+4505,4529,Franziska,stretch whip,AA3,trial
+4506,4529,Franziska,stretch whip t,AA3,trial
+4507,4531,Franziska,angry,AA3,trial
+4508,4531,Franziska,angry t,AA3,trial
+4509,4493,Franziska,frame raising arm,AA3,trial
+4512,4493,Franziska,starting to whip,AA3,trial
+4513,4531,Franziska,damage,AA3,trial
+4514,4533,Franziska,normal,AA3,
+4515,4533,Franziska,normal t,AA3,
+4516,4533,Franziska,pointing finger,AA3,
+4517,4533,Franziska,pointing finger t,AA3,
+4518,4533,Franziska,confident,AA3,
+4519,4533,Franziska,confident t,AA3,
+4520,,,,,
+4521,4533,Franziska,serious,AA3,
+4522,4533,Franziska,serious t,AA3,
+4523,4525,Franziska,stretching arm,AA3,trial
+4524,4529,Franziska,preparing to whip,AA3,trial
+4527,4493,Franziska,whipping,AA3,trial
+4528,4529,Franziska,holding whip,AA3,trial
+4537,4535,Morgan,normal,AA3,
+4538,4535,Morgan,normal t,AA3,
+4539,4541,Morgan,angry,AA3,
+4540,4541,Morgan,angry t,AA3,
+4547,4543,Maya (chan Mia),normal,AA3,
+4548,4543,Maya (chan Mia),normal t,AA3,
+4549,4543,Maya (chan Mia),serious,AA3,
+4550,4543,Maya (chan Mia),serious t,AA3,
+4551,4543,Maya (chan Mia),tilting head,AA3,
+4552,4543,Maya (chan Mia),tilting head t,AA3,
+4553,4545,Maya (chan Mia),normal,AA3,trial
+4554,4545,Maya (chan Mia),normal t,AA3,trial
+4555,4545,Maya (chan Mia),serious,AA3,trial
+4556,4545,Maya (chan Mia),serious t,AA3,trial
+4557,4545,Maya (chan Mia),looking forward,AA3,trial
+4558,4545,Maya (chan Mia),looking forward t,AA3,trial
+4563,4559,Rosenberg,normal,AA3,
+4564,4559,Rosenberg,normal t,AA3,
+4565,4559,Rosenberg,sweating,AA3,
+4566,4559,Rosenberg,sweating t,AA3,
+4567,4561,Rosenberg,normal,AA3,trial
+4568,4561,Rosenberg,normal t,AA3,trial
+4569,4561,Rosenberg,sweating,AA3,trial
+4570,4561,Rosenberg,sweating t,AA3,trial
+4573,4571,Mia,normal,AA3,
+4574,4571,Mia,normal t,AA3,
+4577,4575,Maya (très bien),normal,AA3,
+4578,4575,Maya (très bien),normal t,AA3,
+4579,4575,Maya (très bien),happy,AA3,
+4580,4575,Maya (très bien),happy t,AA3,
+4581,4575,Maya (très bien),surprised,AA3,
+4582,4575,Maya (très bien),surprised t,AA3,
+4585,,,,,
+4586,4583,3-3 op,Tigre + ticket,AA3,
+4587,4583,3-3 op,Tigre + ticket + mug,AA3,
+4588,4583,3-3 op,mug,AA3,
+4589,,,,,
+4590,,,,,
+4591,,,,,
+4592,,,,,
+4595,4593,Pearl (chan Mia),normal,AA3,
+4596,4593,Pearl (chan Mia),normal t,AA3,
+4597,4593,Pearl (chan Mia),serious,AA3,
+4598,4593,Pearl (chan Mia),serious t,AA3,
+4599,4593,Pearl (chan Mia),looking forward,AA3,
+4600,4593,Pearl (chan Mia),looking forward t,AA3,
+4601,,,,,
+4604,,,,,
+4609,,,,,
+4610,,,,,
+4613,,,,,
+4614,,,,,
+4615,,,,,
+4616,,,,,
+4617,,,,,
+4618,,,,,
+4619,,,,,
+4620,,,,,
+4621,,,,,
+4622,,,,,
+4623,,,,,
+4624,,,,,
+4625,,,,,
+4626,,,,,
+4627,,,,,
+4630,,,,,
+4633,,,,,
+4634,,,,,
+4635,,,,,
+4638,,,,,
+4641,,,,,
+4644,,,,,
+4645,,,,,
+4648,,,,,
+4651,,,,,
+4654,,,,,
+4657,,,,,
+4660,,,,,
+4661,,,,,
+4662,,,,,
+4663,,,,,
+4666,,,,,
+4667,,,,,
+4668,,,,,
+4671,,,,,
+4674,,,,,
+4677,,,,,
+4678,,,,,
+4679,,,,,
+4682,,,,,
+4685,,,,,
+4686,,,,,
+4687,,,,,
+4688,,,,,
+4689,,,,,
+4690,,,,,
+4693,,,,,
+4696,,,,,
+4699,4697,Opening 3-1,phoenix head,AA3,
+4700,4697,Opening 3-1,phoenix body,AA3,
+4701,4697,Opening 3-1,phoenix legs,AA3,
+4704,,,,,
+4705,,,,,
+4706,,,,,
+4707,,,,,
+4708,,,,,
+4709,,,,,
+4710,,,,,
+4711,,,,,
+4712,,,,,
+4713,,,,,
+4716,,,,,
+4717,,,,,
+4718,,,,,
+4719,,,,,
+4720,,,,,
+4721,,,,,
+4722,,,,,
+4723,,,,,
+4724,,,,,
+4727,,,,,
+4730,,,,,
+4733,,,,,
+4736,,,,,
+4737,,,,,
+4740,,,,,
+4743,,,,,
+4746,,,,,
+4749,,,,,
+4750,,,,,
+4751,,,,,
+4754,,,,,
+4757,,,,,
+4760,,,,,
+4761,,,,,
+4762,,,,,
+4763,,,,,
+4764,,,,,
+4767,,,,,
+4770,,,,,
+4771,,,,,
+4772,,,,,
+4773,,,,,
+4774,,,,,
+4775,,,,,
+4776,,,,,
+4777,,,,,
+5991,5971,Phoenix,normal,RftA,
+5992,5971,Phoenix,normal t,RftA,
+5993,5971,Phoenix,thinking,RftA,
+5994,5971,Phoenix,thinking t,RftA,
+5995,5985,Phoenix,love eyes,RftA,
+5996,5975,Phoenix,objection,RftA,
+5997,5975,Phoenix,objection wait,RftA,
+5998,5975,Phoenix,objection wait t,RftA,
+5999,5981,Phoenix,damage,RftA,
+6000,5985,Phoenix,wig on face,RftA,
+6001,5983,Phoenix,embarassed,RftA,
+6002,5983,Phoenix,embarassed t,RftA,
+6003,5987,Phoenix,smug,RftA,
+6004,5987,Phoenix,smug t,RftA,
+6005,5971,Phoenix,nod,RftA,
+6006,5971,Phoenix,shook head,RftA,
+6017,6007,Maya,worried,RftA,
+6018,6007,Maya,worried t,RftA,
+6019,6009,Maya,normal,RftA,
+6020,6009,Maya,normal t,RftA,
+6021,6007,Maya,thinking,RftA,
+6022,6007,Maya,thinking t,RftA,
+6023,6011,Maya,sad,RftA,
+6024,6011,Maya,sad t,RftA,
+6025,6011,Maya,crying,RftA,
+6026,6011,Maya,crying t,RftA,
+6027,6011,Maya,motivated,RftA,
+6028,6011,Maya,motivated t,RftA,
+6029,6013,Maya,happy,RftA,
+6030,6013,Maya,happy t,RftA,
+6031,6011,Maya,worried/thinking,RftA,
+6032,6011,Maya,worried/thinking t,RftA,
+6033,6007,Maya,teasing,RftA,
+6034,6007,Maya,teasing t,RftA,
+6035,6011,Maya,angry,RftA,
+6036,6011,Maya,angry t,RftA,
+6037,6007,Maya,surprised,RftA,
+6038,6007,Maya,surprised t,RftA,
+6039,6009,Maya,shocked,RftA,
+6040,6013,Maya,happy nod,RftA,
+6041,6011,Maya,crying eyes closed,RftA,
+6042,,,,RftA,
+6043,,,,RftA,
+6044,,,,RftA,
+6045,,,,RftA,
+6046,,,,RftA,
+6047,,,,RftA,
+6048,,,,RftA,
+6049,,,,RftA,
+6050,,,,RftA,
+6051,,,,RftA,
+6052,,,,RftA,
+6053,,,,RftA,
+6054,,,,RftA,
+6055,,,,RftA,
+6056,,,,RftA,
+6057,,,,RftA,
+6058,,,,RftA,
+6059,,,,RftA,
+6060,,,,RftA,
+6061,,,,RftA,
+6062,,,,RftA,
+6063,,,,RftA,
+6064,6015,Maya,normal,RftA,co councel
+6065,6015,Maya,normal t,RftA,co councel
+6066,6015,Maya,serious,RftA,co councel
+6067,6015,Maya,serious t,RftA,co councel
+6068,6015,Maya,embarassed,RftA,co councel
+6069,6015,Maya,embarassed t,RftA,co councel
+6070,6015,Maya,thinking,RftA,co councel
+6071,6015,Maya,thinking t,RftA,co councel
+6072,6015,Maya,motivated,RftA,co councel
+6073,6015,Maya,motivated t,RftA,co councel
+6094,6086,Edgeworth,normal,RftA,
+6095,6086,Edgeworth,normal t,RftA,
+6096,6086,Edgeworth,furious,RftA,
+6097,6086,Edgeworth,furious t,RftA,
+6098,6086,Edgeworth,worried,RftA,
+6099,6086,Edgeworth,worried t,RftA,
+6100,6088,Edgeworth,sad,RftA,
+6101,6088,Edgeworth,sad t,RftA,
+6102,6086,Edgeworth,thinking,RftA,
+6103,6086,Edgeworth,thinking t,RftA,
+6104,6088,Edgeworth,impatient,RftA,
+6105,6088,Edgeworth,impatient t,RftA,
+6106,6086,Edgeworth,smiling,RftA,
+6107,6086,Edgeworth,smiling t,RftA,
+6108,6074,Edgeworth,normal,RftA,trial
+6109,6074,Edgeworth,normal t,RftA,trial
+6110,6078,Edgeworth,slamming desk,RftA,trial
+6111,6078,Edgeworth,slamming desk wait,RftA,trial
+6112,6078,Edgeworth,slamming desk wait t,RftA,trial
+6113,6076,Edgeworth,pointing finger,RftA,trial
+6114,6076,Edgeworth,pointing finger t,RftA,trial
+6115,6074,Edgeworth,looking file,RftA,trial
+6116,6074,Edgeworth,looking file t,RftA,trial
+6117,6076,Edgeworth,thinking,RftA,trial
+6118,6076,Edgeworth,thinking t,RftA,trial
+6119,6078,Edgeworth,furious,RftA,trial
+6120,6078,Edgeworth,furious t,RftA,trial
+6121,6080,Edgeworth,objection bis wait,RftA,trial
+6122,6080,Edgeworth,objection bis wait t,RftA,trial
+6123,6074,Edgeworth,objection,RftA,trial
+6124,6082,Edgeworth,damage,RftA,trial
+6125,6084,Edgeworth,bowing,RftA,trial
+6126,6080,Edgeworth,objection bis,RftA,trial
+6127,6084,Edgeworth,bowed,RftA,trial
+6128,6074,Edgeworth,objection wait,RftA,trial
+6129,6090,Edgeworth,pointing finger wait,RftA,
+6130,6090,Edgeworth,pointing finger,RftA,
+6131,6092,Edgeworth,damage wait,RftA,
+6132,6092,Edgeworth,damage,RftA,
+6143,6133,Gumshoe,normal,RftA,
+6144,6133,Gumshoe,normal t,RftA,
+6145,6133,Gumshoe,thinking,RftA,
+6146,6133,Gumshoe,thinking t,RftA,
+6147,6133,Gumshoe,happy,RftA,
+6148,6133,Gumshoe,happy t,RftA,
+6149,6137,Gumshoe,motivated,RftA,
+6150,6137,Gumshoe,motivated t,RftA,
+6151,6133,Gumshoe,smiling,RftA,
+6152,6133,Gumshoe,smiling t,RftA,
+6153,6135,Gumshoe,angry,RftA,
+6154,6135,Gumshoe,angry t,RftA,
+6155,6135,Gumshoe,sad,RftA,
+6156,6135,Gumshoe,sad t,RftA,
+6157,6133,Gumshoe,worried,RftA,
+6158,6133,Gumshoe,worried t,RftA,
+6159,6139,Gumshoe,embarassed,RftA,
+6160,6139,Gumshoe,embarassed arm under head,RftA,
+6173,6163,White,normal,RftA,
+6174,6163,White,normal t,RftA,
+6175,6169,White,nod,RftA,
+6176,6169,White,shrug t,RftA,
+6177,6167,White,shine jewelry,RftA,
+6178,6163,White,worried,RftA,
+6179,6163,White,worried t,RftA,
+6180,6165,White,sweating,RftA,
+6181,6165,White,sweating t,RftA,
+6182,6171,White,panicked lower head,RftA,
+6183,6165,White,panicked,RftA,
+6184,6165,White,panicked t,RftA,
+6185,6171,White,breakdown,RftA,
+6186,6171,White,breakdown t,RftA,
+6187,6161,White,shrug,RftA,
+6190,6188,Bellboy,normal,RftA,
+6191,6188,Bellboy,normal t,RftA,
+6192,6188,Bellboy,blushing,RftA,
+6193,6188,Bellboy,blushing t,RftA,
+6202,6200,Kevin,normal,RftA,
+6203,6200,Kevin,normal t,RftA,
+6204,6200,Kevin,sulking,RftA,
+6205,6200,Kevin,sulking t,RftA,
+6206,6194,Kevin,smiling,RftA,
+6207,6194,Kevin,smiling t,RftA,
+6208,6194,Kevin,sad,RftA,
+6209,6194,Kevin,sad t,RftA,
+6210,6194,Kevin,smug,RftA,
+6211,6194,Kevin,smug t,RftA,
+6212,6196,Kevin,trying to draw katana,RftA,
+6213,6196,Kevin,holding katana t,RftA,
+6214,6200,Kevin,surprised,RftA,
+6215,6200,Kevin,surprised wait,RftA,
+6216,6200,Kevin,too short for bench,RftA,
+6217,6198,Kevin,crying,RftA,
+6218,6198,Kevin,crying t,RftA,
+6219,6198,Kevin,breakdown,RftA,
+6220,6198,Kevin,breakdown t,RftA,
+6235,6231,Manfred,normal,RftA,
+6236,6231,Manfred,normal t,RftA,
+6237,6231,Manfred,grinning,RftA,
+6238,6231,Manfred,grinning t,RftA,
+6239,6231,Manfred,holding taser,RftA,
+6240,6231,Manfred,holding taser t,RftA,
+6241,6221,Manfred,normal,RftA,trial
+6242,6221,Manfred,normal t,RftA,trial
+6243,6221,Manfred,confident,RftA,trial
+6244,6221,Manfred,confident t,RftA,trial
+6245,6221,Manfred,thinking,RftA,trial
+6246,6221,Manfred,thinking t,RftA,trial
+6247,6223,Manfred,objection,RftA,trial
+6248,6223,Manfred,objection wait,RftA,trial
+6249,6225,Manfred,sweating,RftA,trial
+6250,6225,Manfred,sweating t,RftA,trial
+6251,6227,Manfred,snap fingers wait,RftA,trial
+6252,6227,Manfred,snap fingers wait t,RftA,trial
+6253,6227,Manfred,snap fingers,RftA,trial
+6254,6227,Manfred,snap fingers wait bis,RftA,trial
+6255,6229,Manfred,Breakdown 1,RftA,trial
+6256,6229,Manfred,Breakdown 1 wait,RftA,trial
+6257,6233,Manfred,Breakdown 2 slow,RftA,trial
+6258,6233,Manfred,Breakdown 2 quick,RftA,trial
+6259,6229,Manfred,Breakdown 1 wait bis,RftA,trial
+6282,6260,Ema,normal,RftA,
+6283,6260,Ema,normal t,RftA,
+6284,6260,Ema,worried,RftA,
+6285,6260,Ema,worried t,RftA,
+6286,6262,Ema,thinking,RftA,
+6287,6262,Ema,thinking t,RftA,
+6288,6264,Ema,glasses on,RftA,
+6289,6264,Ema,glasses on t,RftA,
+6290,6266,Ema,sad,RftA,
+6291,6266,Ema,sad t,RftA,
+6294,6268,Ema,motivated,RftA,
+6295,6268,Ema,motivated t,RftA,
+6296,6270,Ema,happy,RftA,
+6297,6270,Ema,happy t,RftA,
+6298,6272,Ema,angry,RftA,
+6299,6272,Ema,angry t,RftA,
+6300,6274,Ema,surprised,RftA,
+6301,6274,Ema,surprised t,RftA,
+6302,6276,Ema,demotivated,RftA,
+6303,6276,Ema,demotivated t,RftA,
+6304,6278,Ema,writing notes,RftA,
+6305,,,,RftA,
+6306,,,,RftA,
+6307,6292,Ema,normal,RftA,co councel
+6308,6292,Ema,normal t,RftA,co councel
+6309,6310,Ema,thinking,RftA,co councel
+6312,6310,Ema,thinking t,RftA,co councel
+6313,6318,Ema,serious,RftA,co councel
+6314,6318,Ema,serious t,RftA,co councel
+6315,6278,Ema,writing notes t,RftA,
+6316,6278,Ema,writing notes,RftA,
+6317,,,,RftA,
+6332,6320,Lana,normal,RftA,
+6333,6320,Lana,normal t,RftA,
+6334,6320,Lana,evasive,RftA,
+6335,6320,Lana,evasive t,RftA,
+6336,6320,Lana,surprised,RftA,
+6337,6320,Lana,surprised t,RftA,
+6338,6320,Lana,serious,RftA,
+6339,6320,Lana,serious t,RftA,
+6340,6322,Lana,side ,RftA,
+6341,6322,Lana,side t,RftA,
+6342,6322,Lana,back,RftA,
+6343,6322,Lana,front to back,RftA,
+6344,6322,Lana,back to front,RftA,
+6345,6324,Lana,smiling,RftA,
+6346,6324,Lana,smiling wait,RftA,
+6347,6324,Lana,smiling wait t,RftA,
+6348,6326,Lana,worried,RftA,
+6349,6326,Lana,worried t,RftA,
+6350,6328,Lana,worried bleeding,RftA,
+6351,6330,Lana,leaning forward,RftA,
+6352,6330,Lana,leaning forward t,RftA,
+6367,6353,Ballaud,normal,RftA,
+6368,6355,Ballaud,salute,RftA,
+6369,6355,Ballaud,salute wait,RftA,
+6370,6355,Ballaud,salute wait t,RftA,
+6371,6357,Ballaud,hit his fist,RftA,
+6372,6357,Ballaud,hit his fist wait,RftA,
+6373,6357,Ballaud,hit his fist wait t,RftA,
+6374,6359,Ballaud,sad,RftA,
+6375,6359,Ballaud,sad t,RftA,
+6376,6361,Ballaud,hold megaphone,RftA,
+6377,6361,Ballaud,hold megaphone t lower,RftA,
+6378,6361,Ballaud,hold megaphone t upper,RftA,
+6379,6363,Ballaud,thinking,RftA,
+6380,6363,Ballaud,thinking t,RftA,
+6381,6365,Ballaud,damage,RftA,
+6382,6355,Ballaud,salute,RftA,
+6399,6383,Starr,normal,RftA,
+6400,6383,Starr,normal t,RftA,
+6401,6385,Starr,smiling,RftA,
+6402,6385,Starr,smiling t,RftA,
+6403,6387,Starr,evil,RftA,
+6404,6387,Starr,evil t,RftA,
+6405,6389,Starr,sweating,RftA,
+6406,6389,Starr,sweating t,RftA,
+6407,6391,Starr,serious,RftA,
+6408,6391,Starr,serious t,RftA,
+6409,6383,Starr,normal freeze,RftA,
+6410,6393,Starr,start to show lunch,RftA,
+6411,6395,Starr,show lunch,RftA,
+6412,6395,Starr,show lunch t,RftA,
+6413,6397,Starr,damage,RftA,
+6414,6387,Starr,moving head,RftA,
+6437,6415,Marshall,normal,RftA,
+6438,6415,Marshall,normal t,RftA,
+6439,6417,Marshall,holding knife,RftA,
+6440,6417,Marshall,holding knife t,RftA,
+6441,6417,Marshall,cutting beard,RftA,
+6442,6419,Marshall,pay tribute,RftA,
+6443,6419,Marshall,pay tribute t,RftA,
+6444,6421,Marshall,hold flask,RftA,
+6445,6421,Marshall,hold flask t,RftA,
+6446,6421,Marshall,drink,RftA,
+6447,6421,Marshall,removing cap,RftA,
+6448,6423,Marshall,pulling on meat 1,RftA,
+6449,6423,Marshall,pulling on meat 2,RftA,
+6450,6423,Marshall,sweating,RftA,
+6451,6423,Marshall,sweating t,RftA,
+6452,6425,Marshall,finger gun,RftA,
+6453,6425,Marshall,finger gun t,RftA,
+6454,6427,Marshall,Breakdown 1,RftA,
+6455,6429,Marshall,Breakdown 2,RftA,
+6456,6431,Marshall,Breakdown 3,RftA,
+6457,6433,Marshall,Hurt 1,RftA,
+6458,6433,Marshall,Hurt 2,RftA,
+6459,6435,Marshall,resigned,RftA,
+6460,6435,Marshall,resigned t,RftA,
+6483,6461,Gant,normal,RftA,
+6484,6461,Gant,normal t,RftA,
+6485,6461,Gant,stare,RftA,
+6486,6461,Gant,stare t,RftA,
+6487,6463,Gant,happy,RftA,
+6488,6463,Gant,happy t,RftA,
+6489,6467,Gant,thinking,RftA,
+6490,6469,Gant,thinking t,RftA,
+6491,6471,Gant,menacing,RftA,
+6492,6471,Gant,menacing t,RftA,
+6493,6473,Gant,furious,RftA,
+6494,6473,Gant,furious t,RftA,
+6495,6475,Gant,panicked,RftA,
+6496,6475,Gant,panicked t,RftA,
+6497,6465,Gant,applaud,RftA,
+6498,6481,Gant,damage,RftA,
+6499,6465,Gant,applaud and laugh,RftA,
+6500,6479,Gant,breakdown start,RftA,
+6501,6481,Gant,breakdown,RftA,
+6502,6461,Gant,blink,RftA,
+6505,,,,,
+6508,,,,,
+6511,,,,,
+6514,,,,,
+6517,,,,,
+6520,,,,,
+6521,,,,,
+6522,,,,,
+6523,,,,,
+6526,,,,,
+6527,,,,,
+6530,,,,,
+6531,,,,,
+6532,,,,,
+6533,,,,,
+6536,,,,,
+6537,,,,,
+6538,,,,,
+6539,,,,,
+6540,,,,,
+6541,,,,,
+6542,,,,,
+6543,,,,,
+6544,,,,,
+6545,,,,,
+6546,,,,,
+6553,,,,,
+6556,,,,,
+6557,,,,,
+6560,,,,,
+6563,,,,,
+6566,,,,,
+6569,,,,,
+6572,,,,,
+6575,,,,,
+6578,,,,,
+6581,,,,,
+6584,,,,,
+6587,,,,,
+6590,,,,,
+6593,,,,,
+6596,,,,,
+6599,,,,,
+6602,,,,,
+6605,,,,,
+6608,,,,,
+6611,,,,,
+6614,,,,,
+6617,,,,,

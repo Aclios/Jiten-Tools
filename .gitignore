@@ -1,0 +1,6 @@
+__pycache__
+*.nds
+_project/original
+_project/new/rom
+_project/new/text
+.~lock*

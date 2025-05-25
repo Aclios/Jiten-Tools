@@ -1,0 +1,117 @@
+.nds
+.relativeinclude off
+
+.open "_project/new/rom/arm9/arm9.bin", 0
+.orga 0
+.headersize 0x2000000
+.area 0xD8CA4
+
+; write offsets for text canva OAMs tiling
+.org 0x203115C :: mov r1, #0x40 ; x offset of the next OAM
+.org 0x2031164 :: add r1, r1, 0x14 ; text x offset (unchanged)
+.org 0x2031178 :: mov r0, #0x40 ; y offset of the next OAM
+.org 0x2031180 :: add r0, r0, 0x18 ; text y offset
+.org 0x2031280 :: mov r2, 0x40
+
+; case summaries
+
+.org 0x20CDDD0 :: dcd 0x4 ; 4 tiles in width
+.org 0x20CDDD8 :: dcd 0x3 ; 64x64
+
+.org 0x20CDDF8 :: dcd 0x338 ; tiles
+.org 0x20CDE00 :: dcd 0x4 ; 4 tiles in width
+.org 0x20CDE08 :: dcd 0x3 ; 64x64
+
+; deactivate unused character oams
+.org 0x20CDE30 :: dcd 0
+.org 0x20CDE60 :: dcd 0
+.org 0x20CDE90 :: dcd 0
+
+; expand the text container background
+.org 0x20CDEB0 :: dcd 0x10 ; x
+.org 0x20CDEB4 :: dcd 0x5C ; y
+.org 0x20CDEB8 :: dcd 0x238 ; tiles
+.org 0x20CDEBC :: dcd 0x8 ; palette
+
+.org 0x20CDEC0 :: dcd 0x4 ; count
+.org 0x20CDEC8 :: dcd 0x3 ; 64x64
+.org 0x20CDED4 :: dcd 0x2027AC0 ; code
+
+.org 0x20CDEE4 :: dcd 0x14 ; y
+
+; people
+
+.org 0x2094C10 :: dcd 0x300 ; move script in memory
+.org 0x2094C18 :: dcd 0x4
+.org 0x2094C20 :: dcd 0x3
+
+.org 0x2094C40 :: dcd 0x380 ; move script in memory
+.org 0x2094C48 :: dcd 0x4
+.org 0x2094C50 :: dcd 0x3
+
+.org 0x2094C78 :: dcd 0
+.org 0x2094CA8 :: dcd 0
+.org 0x2094CD8 :: dcd 0
+
+.org 0x2094CF8 :: dcd 0x10
+.org 0x2094CFC :: dcd 0x5C
+.org 0x2094D00 :: dcd 0x228
+.org 0x2094D04 :: dcd 0x4
+
+.org 0x2094D08 :: dcd 0x4
+.org 0x2094D10 :: dcd 0x3
+.org 0x2094D1C :: dcd 0x2027AC0
+
+.org 0x2094D2C :: dcd 0x14
+
+; places
+
+.org 0x2093410 :: dcd 0x4
+.org 0x2093418 :: dcd 0x3
+
+.org 0x2093438 :: dcd 0x358
+.org 0x2093440 :: dcd 0x4
+.org 0x2093448 :: dcd 0x3
+
+.org 0x2093470 :: dcd 0
+.org 0x20934A0 :: dcd 0
+.org 0x20934D0 :: dcd 0
+
+.org 0x20934F0 :: dcd 0x10
+.org 0x20934F4 :: dcd 0x5C
+.org 0x20934F8 :: dcd 0x258
+.org 0x20934FC :: dcd 0x8
+
+.org 0x2093500 :: dcd 0x4
+.org 0x2093508 :: dcd 0x3
+.org 0x2093514 :: dcd 0x2027AC0
+
+.org 0x2093524 :: dcd 0x14
+
+; evidences
+
+.org 0x20CE9BC :: dcd 0x4
+.org 0x20CE9C4 :: dcd 0x3
+
+.org 0x20CE9E4 :: dcd 0x338
+.org 0x20CE9EC :: dcd 0x4
+.org 0x20CE9F4 :: dcd 0x3
+
+.org 0x20CEA1C :: dcd 0
+.org 0x20CEA4C :: dcd 0
+.org 0x20CEA7C :: dcd 0
+.org 0x20CEAAC :: dcd 0
+
+.org 0x20CEA9C :: dcd 0x10
+.org 0x20CEAA0 :: dcd 0x5C
+.org 0x20CEAA4 :: dcd 0x238
+.org 0x20CEAA8 :: dcd 0x8
+
+.org 0x20CEAAC :: dcd 0x4
+.org 0x20CEAB4 :: dcd 0x3
+.org 0x20CEAC0 :: dcd 0x2027AC0
+
+.org 0x20CEAD0 :: dcd 0x14
+
+.endarea
+.close
